@@ -7,8 +7,7 @@ title: Luke Shi's CV
 </div>
 # Luke Shi
 
-Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
-
+Senior Java Software Engineer
 
 <div id="webaddress">
 📞 Phone: 027-888-3395<br>
@@ -25,10 +24,8 @@ Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Gr
 ## Open to Work
 **Senior Java Software Engineer roles**
 
-I am currently pursuing my studies, and I am available for part-time roles, dedicating up to 20 hours per week. Upon my graduation in November this year, I will be eligible for full-time employment. I am seeking opportunities as a Senior Java Software Engineer.
-
 ## Currently
-Technical Project Manager at Aier Eye Hospital Group Co., Ltd., focusing on the implementation and development of LIS system and various other technical projects.
+The Master of Applied Computing student at Lincoln University, with an internship starting in August and graduation in November. Currently available for 20 hours of work per week.
 
 ## Specialized in
 - System architecture design
@@ -67,9 +64,9 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 ## Occupation
 
-`2019 - Present`
+`2019 - 2023`
 __Aier Eye Hospital Group Co., Ltd.__
-Senior Java Software Engineer & Technical Project Manager
+Senior Java Software Engineer
 
 `2017 - 2019`
 __DARK HORSE PROGRAMMER__
@@ -120,13 +117,13 @@ Instructor
 
 ## Project Development Experience
 
-`2019.04 - 2024.01`
+`2019.04 - 2023.12`
 __Aier Laboratory Information System (ALIS) - Lead Project__
 - Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
 - Conceptualized and executed the Quality Control module within ALIS, establishing robust quality assurance protocols for laboratory test results, thereby reducing errors and improving reliability.
 - Engineered and deployed comprehensive General and Pathological Reporting modules for ALIS, streamlining the process of generating precise and detailed laboratory reports for clinical decision-making.
 
-`2022.11 - 2024.01`
+`2022.11 - 2023.12`
 __Hospital Grade Review System (AGRV) - Lead Project__
 - Led the overall system development, including design, development, testing, and deployment
 - Coordinated tasks to ensure project completion on time
