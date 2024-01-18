@@ -22,7 +22,7 @@ Senior Java Software Engineer
     With our beloved family and dog.
 -->
 ## Open to Work
-I am currently studying Python at Lincoln University and hope to pursue a career related to Python in the future.
+**Senior Java Software Engineer roles**
 
 ## Currently
 The Master of Applied Computing student at Lincoln University, with an internship starting in August and graduation in November. Currently available for 20 hours of work per week.
