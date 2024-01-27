@@ -63,16 +63,6 @@ Skills: Photography, Computer Graphics, Databases, Programming
 `2023`
 Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
 
-## Occupation
-
-`2019 - 2023`
-__Aier Eye Hospital Group Co., Ltd.__
-Senior Java Software Engineer
-
-`2017 - 2019`
-__DARK HORSE PROGRAMMER__
-Instructor & Java Software Engineer
-
 ## Skills
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
@@ -99,7 +89,7 @@ Instructor & Java Software Engineer
 
 `2019 - 2023`
 __AIER EYE, ChangSha__
-Project Manager
+Senior Java Software Engineer
 - Responsible for system architecture design work
 - Responsible for optimizing the existing technical architecture, improve system stability, scalability, security
 - Responsible for product technology selection, design of product technology architecture, interface specifications
@@ -110,7 +100,7 @@ Senior Java Software Engineer
 
 `2017 - 2019`
 __DARK HORSE PROGRAMMER, ChangSha__
-Instructor
+Instructor & Java Software Engineer
 - As an instructor in a training organization, my job is to provide students with high-quality Java programming training courses
 - Design and develop lesson plans, including syllabus, case studies, programming practice, etc.
 - Use interactive teaching methods to actively involve students in the classroom during the course of instruction
