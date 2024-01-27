@@ -22,7 +22,7 @@ Senior Java Software Engineer
     With our beloved family and dog.
 -->
 ## Open to Work
-**Senior Java Software Engineer roles**
+"I am currently studying Python at Lincoln University and hope to pursue a career related to Python in the future."
 
 ## Currently
 The Master of Applied Computing student at Lincoln University, with an internship starting in August and graduation in November. Currently available for 20 hours of work per week.
@@ -80,7 +80,8 @@ Instructor & Java Software Engineer
 - Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
 - Operating Systems: Ubuntu, CentOS, MacOS, Windows
-- Other Tools: Jenkins CI/CD, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
+- Methodologies: Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
+- Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
 - HL7 Standards, Medical Equipment
 
 ## Programming and Development
