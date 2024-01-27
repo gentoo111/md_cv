@@ -74,6 +74,7 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 - Methodologies: Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
 - HL7 Standards, Medical Equipment
+- Chinese, English
 
 ## Programming and Development
 - Proficiency in developing web projects using Java and front-end technologies
