@@ -64,6 +64,7 @@ Skills: Photography, Computer Graphics, Databases, Programming
 Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
 
 ## Skills
+- Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
 - Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
@@ -71,7 +72,6 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 - Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
 - Operating Systems: Ubuntu, CentOS, MacOS, Windows
-- Methodologies: Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
 - HL7 Standards, Medical Equipment
 - Chinese, English
