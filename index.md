@@ -80,7 +80,7 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 - Proficiency in developing web projects using Java and front-end technologies
 
 ## Project Management & Leadership
-- Years of project management experience, full project documentation is exported during the course of the project
+- Seasoned project manager with a proven track record of leading teams to meticulously document project lifecycles
 
 ## Communication
 - Effective Listening & Clear Expression
