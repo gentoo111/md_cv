@@ -37,7 +37,7 @@ I am a Master of Applied Computing student at Lincoln University with 8 years of
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
 - Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
-- Databases: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
+- Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
 - Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
 - Operating Systems: Ubuntu, CentOS, macOS, Windows
