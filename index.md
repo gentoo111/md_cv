@@ -14,6 +14,7 @@ Senior Java Software Engineer
 📧 Email: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
 🌐 LinkedIn: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">Zhenzhou (Luke) Shi</a><br>
 🐙 GitHub: <a href="https://github.com/gentoo111">gentoo111</a>
+📄 Online CV: <a href="https://cv.anymk.com/">https://cv.anymk.com/</a>
 </div>
 
 <!-- 
