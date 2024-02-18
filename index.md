@@ -24,7 +24,7 @@ Senior Java Software Engineer
     With our beloved family and dog.
 -->
 ## Current Status
-I am a Master of Applied Computing student at Lincoln University with 8 years of Java development experience. As I approach my graduation in November, I am seeking part-time or volunteer positions in backend or frontend development. I am available to work up to 20 hours per week and am keen to apply my skills in a practical setting.
+I am a Master of Applied Computing student at Lincoln University with 8 years of Java development experience. As I approach my graduation in November, I am seeking part-time or volunteer positions in backend or frontend development. I am available to work up to 20 hours per week and am eager to apply my skills in a practical setting. Upon graduating, I will be eligible for a three-year open work visa, allowing me to commit to long-term opportunities and contribute more significantly to the team and projects I join.
 
 ## Specialized in
 - Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
