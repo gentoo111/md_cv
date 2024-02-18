@@ -23,36 +23,62 @@ Senior Java Software Engineer
     Lost in contemplation,
     With our beloved family and dog.
 -->
-## Open to Work
-I am currently studying Python at Lincoln University and hope to pursue a career related to Python in the future.
-
-## Currently
-The Master of Applied Computing student at Lincoln University, with an internship starting in August and graduation in November. Currently available for 20 hours of work per week.
+## Current Status
+I am a Master of Applied Computing student at Lincoln University with 8 years of Java development experience. As I approach my graduation in November, I am seeking part-time or volunteer positions in backend or frontend development. I am available to work up to 20 hours per week and am keen to apply my skills in a practical setting.
 
 ## Specialized in
-- System architecture design
-- Technical architecture optimization
-- Product technology selection
-- Interface specifications
-- Leading technical challenges and development team guidance
+- Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
+- System design and architectural optimization to enhance product performance and maintainability
+- Leading technical teams and effectively managing complex projects and challenges
+- Strong communicator with skills in active listening, clear expression, and fostering collaboration across diverse cultural environments
 
-## Research interests
-- Software deployment
-- Backend and frontend development
-- Database management
-- Middleware solutions
-- Operating systems
+## Skills
+- Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
+- Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
+- Python: Django, Flask, Pandas
+- Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
+- Databases: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
+- Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
+- Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
+- Operating Systems: Ubuntu, CentOS, macOS, Windows
+- Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
+- HL7 Standards, Medical Equipment
+- English，Chinese
+
+## Work Experience
+
+`2019 - 2023`
+__AIER EYE, ChangSha__
+Senior Java Software Engineer & Project Manager
+- Focused on the development of the Laboratory Information System (LIS) within the core business of the HIS (Hospital Information System)
+- Responsible for system architecture design work
+- Responsible for optimizing the existing technical architecture, improve system stability, scalability, security
+- Responsible for product technology selection, design of product technology architecture, interface specifications
+- Research and pre-study of key technical difficulties
+- Lead the team of various challenges and technical difficulties, technical guidance and training for the development team
+
+`2017 - 2019`
+__DARK HORSE PROGRAMMER, ChangSha__
+Instructor & Java Software Engineer
+- As an instructor in a training organization, my job is to provide students with high-quality Java programming training courses
+- Design and develop lesson plans, including syllabus, case studies, programming practice, etc.
+- Use interactive teaching methods to actively involve students in the classroom during the course of instruction
+- Goal to make students become excellent Java programmers under my guidance
+- Trained more than 1000 students in two years
 
 ## Education
 
-`2023 - 2024`
+`2023 - Present`
 __Lincoln University (NZ)__
 Master of Applied Computing
 
+Courses: Python, Business Analysis, GIS, Studio Project, Industry Project, Advanced Programming, Advanced Database Management
+
 `1999 - 2003`
-__Air Force Aviation University__
+**Air Force Aviation University**  
 Bachelor's degree, Military Intelligence, General
-Skills: Photography, Computer Graphics, Databases, Programming
+
+Courses: Computer Basics, Microcomputer Principles, Databases, Advanced Programming, Image Processing, Photography Studies
 
 ## Awards & Originality
 
@@ -63,51 +89,6 @@ Skills: Photography, Computer Graphics, Databases, Programming
 
 `2023`
 Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
-
-## Skills
-- Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
-- Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
-- Python: Django, Flask, Pandas
-- Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
-- Databases: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
-- Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
-- Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
-- Operating Systems: Ubuntu, CentOS, MacOS, Windows
-- Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
-- HL7 Standards, Medical Equipment
-- Chinese, English
-
-## Programming and Development
-- Proficiency in developing web projects using Java and front-end technologies
-
-## Project Management & Leadership
-- Seasoned project manager with a proven track record of leading teams to meticulously document project lifecycles
-
-## Communication
-- Effective Listening & Clear Expression
-- Team Communication & Cross-Cultural Interaction
-
-## Work Experience
-
-`2019 - 2023`
-__AIER EYE, ChangSha__
-Senior Java Software Engineer
-- Responsible for system architecture design work
-- Responsible for optimizing the existing technical architecture, improve system stability, scalability, security
-- Responsible for product technology selection, design of product technology architecture, interface specifications
-- Research and pre-study of key technical difficulties
-- Lead the team of various challenges and technical difficulties, technical guidance and training for the development team
-Senior Java Software Engineer
-- Responsible for the development of the core business of the hospital information system
-
-`2017 - 2019`
-__DARK HORSE PROGRAMMER, ChangSha__
-Instructor & Java Software Engineer
-- As an instructor in a training organization, my job is to provide students with high-quality Java programming training courses
-- Design and develop lesson plans, including syllabus, case studies, programming practice, etc.
-- Use interactive teaching methods to actively involve students in the classroom during the course of instruction
-- Goal to make students become excellent Java programmers under my guidance
-- Trained more than 1000 students in two years
 
 ## Project Development Experience
 
