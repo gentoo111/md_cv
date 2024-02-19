@@ -81,6 +81,8 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -23%;
+	font-weight: bold;
+	color: #000;
 }
 
 
