@@ -154,22 +154,14 @@ __IT Easy Learning Online Education Platform__
 `2017.06 - 2017.11`
 __MOON Scaffold__
 - Developed an open-source backend scaffold project using SpringBoot
-- Implemented button-level access control and separated frontend and backend using JSON for data interaction
-- Introduced quartz scheduled tasks and cloud storage services
 
 `2017.01 - 2017.03`
 __Yili Steel Network (E-commerce)__
 - Provided online steel sales services for steel mills and traders
-- Developed a comprehensive steel procurement solution integrating purchasing, logistics, processing, and supply chain finance
-- Implemented smart supply chain finance products based on different product categories
-- Built an Internet smart cloud logistics system using IoT and blockchain technology
 
 `2016.10 - 2016.12`
 __Agricultural Traceability Platform__
 - Project management for the quality traceability system for pork products
-- Responsible for project development, testing, and maintenance support
-- Overall management and control of project progress
-- Timely completion of company-assigned tasks
 
 <!-- ### Footer
 
