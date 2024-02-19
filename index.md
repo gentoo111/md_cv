@@ -141,15 +141,10 @@ __Intelligent Agriculture IoT__
 `2018.02 - 2018.04`
 __AnyMK Single Page Application__
 - Responsive single-page application with a lightweight microservices architecture
-- Supported multiple databases and implemented frontend-backend separation using JSON for data interaction
-- Introduced quartz scheduled tasks and cloud storage services
 
 `2018.01 - 2018.11`
 __IT Easy Learning Online Education Platform__
 - Developed a mainstream microservice-based online education solution using SpringCloud
-- Led technical selection, framework construction, and interface and function development
-- Setup development environment, server deployment, and source code management
-- Participated in innovative product solution design and technical discussions
 
 `2017.06 - 2017.11`
 __MOON Scaffold__
