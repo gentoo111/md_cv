@@ -9,12 +9,12 @@ title: Luke Shi's CV
 
 Senior Java Software Engineer
 
-<div id="webaddress">
-📞 Phone: 027-888-3395<br>
-📧 Email: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
-🌐 LinkedIn: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">Zhenzhou (Luke) Shi</a><br>
-🐙 GitHub: <a href="https://github.com/gentoo111">gentoo111</a><br>
-📄 Online CV: <a href="https://cv.anymk.com/">https://cv.anymk.com/</a>
+<div id="webaddress" style="font-weight: bold; font-size: 14px; color: #333;">
+  📞 Phone: 027-888-3395<br>
+  📧 Email: <a href="mailto:szz185@gmail.com" style="color: #555;">szz185@gmail.com</a><br>
+  🌐 LinkedIn: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/" style="color: #555;">Zhenzhou (Luke) Shi</a><br>
+  🐙 GitHub: <a href="https://github.com/gentoo111" style="color: #555;">gentoo111</a><br>
+  📄 Online CV: <a href="https://cv.anymk.com/" style="color: #555;">https://cv.anymk.com/</a>
 </div>
 
 <!-- 
@@ -24,7 +24,7 @@ Senior Java Software Engineer
     With our beloved family and dog.
 -->
 ## Current Status
-I am a Master of Applied Computing student at Lincoln University with 8 years of Java development experience. As I approach my graduation in November, I am seeking part-time or volunteer positions in backend or frontend development. I am available to work up to 20 hours per week and am eager to apply my skills in a practical setting. Upon graduating, I will be eligible for a three-year open work visa, allowing me to commit to long-term opportunities and contribute more significantly to the team and projects I join.
+A master of Applied Computing student at Lincoln University, with 8 years of Java development experience. Seeking a position in backend or frontend development, bringing strong analytical skills and a collaborative spirit to the team.  Excited to contribute 20 hours per week to meaningful projects while completing my Master's degree. Upon graduation in November will be avaulaste full time.
 
 ## Specialized in
 - Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
@@ -47,7 +47,7 @@ I am a Master of Applied Computing student at Lincoln University with 8 years of
 
 ## Work Experience
 
-`2019 - 2023`
+<span style="font-weight: bold; color: #000;">2019 - 2023</span>
 __AIER EYE, ChangSha__
 Senior Java Software Engineer & Project Manager
 - Focused on the development of the Laboratory Information System (LIS) within the core business of the HIS (Hospital Information System)
@@ -66,6 +66,9 @@ Instructor & Java Software Engineer
 - Goal to make students become excellent Java programmers under my guidance
 - Trained more than 1000 students in two years
 
+`2003 - 2015`
+__People's Liberation Army Air Force, China__
+
 ## Education
 
 `2023 - Present`
@@ -73,6 +76,9 @@ __Lincoln University (NZ)__
 Master of Applied Computing
 
 Courses: Python, Business Analysis, GIS, Studio Project, Industry Project, Advanced Programming, Advanced Database Management
+
+`2016 - 2017`
+Completed a one-year Java development training program
 
 `1999 - 2003`
 **Air Force Aviation University**  
