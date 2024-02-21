@@ -66,9 +66,6 @@ Instructor & Java Software Engineer
 - Goal to make students become excellent Java programmers under my guidance
 - Trained more than 1000 students in two years
 
-`2003 - 2015`
-__People's Liberation Army Air Force, China__
-
 ## Education
 
 `2023 - Present`
