@@ -48,7 +48,7 @@ A master of Applied Computing student at Lincoln University, with 8 years of Jav
 ## Work Experience
 
 `2019 - 2023`
-__AIER EYE, ChangSha__
+__Aier Eye Hospital Group Company Limited, ChangSha__
 Senior Java Software Engineer & Project Manager
 - Focused on the development of the Laboratory Information System (LIS) within the core business of the HIS (Hospital Information System)
 - Responsible for system architecture design work
