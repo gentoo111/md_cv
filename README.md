@@ -1,1 +1,2 @@
 # markdown-cv
+Currently, as a student, I am available to work 20 hours per week, which I believe will allow me to make a significant contribution to your projects. Upon my graduation in November, I will be available full time and eager to further invest my skills and energy into Westpac's continued success.

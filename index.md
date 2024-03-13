@@ -24,7 +24,9 @@ Senior Java Software Engineer
     With our beloved family and dog.
 -->
 ## Current Status
-A master of Applied Computing student at Lincoln University, with 8 years of Java development experience. Seeking a position in backend or frontend development, bringing strong analytical skills and a collaborative spirit to the team.  Excited to contribute 20 hours per week to meaningful projects while completing my Master's degree. Upon graduation in November will be avaulaste full time.
+Master of Applied Computing candidate at Lincoln University, utilizing Python and bringing 8 years of Java and front-end development experience.  
+Seeking an internship or part-time in backend or frontend development, bringing strong analytical skills and a collaborative spirit to the team.  
+Upon graduation will receive an open work visa to work full-time and wish to be in New Zealand for the long term.
 
 ## Specialized in
 - Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
