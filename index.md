@@ -148,22 +148,35 @@ __Intelligent Agriculture IoT__
 `2018.02 - 2018.04`
 __AnyMK Single Page Application__
 - Responsive single-page application with a lightweight microservices architecture
+- Supported multiple databases and leveraged JSON for data interchange, achieving front-end and back-end separation. 
+- Integrated quartz for scheduling tasks and implemented cloud storage services.
 
 `2018.01 - 2018.11`
 __IT Easy Learning Online Education Platform__
-- Developed a mainstream microservice-based online education solution using SpringCloud
+- Developed a mainstream microservice-based online education solution using SpringCloud 
+- Led technical selection, framework construction, as well as interface and feature development. 
+- Set up the development environment, server deployment, and source code management. 
+- Participated in the design and technical discussions of innovative product solutions.
 
 `2017.06 - 2017.11`
 __MOON Scaffold__
 - Developed an open-source backend scaffold project using SpringBoot
+- Implemented button-level access control and used JSON for data interchange, achieving front-end and back-end separation. 
+- Integrated quartz for scheduling tasks and cloud storage services.
 
 `2017.01 - 2017.03`
 __Yili Steel Network (E-commerce)__
 - Provided online steel sales services for steel mills and traders
+- Developed a comprehensive steel procurement solution integrating purchasing, logistics, processing, and supply chain finance. 
+- Implemented intelligent supply chain financial products for different product categories. 
+- Built an Internet smart cloud logistics system using IoT and blockchain technology.
 
 `2016.10 - 2016.12`
 __Agricultural Traceability Platform__
 - Project management for the quality traceability system for pork products
+- Responsible for project development, testing, and maintenance support. 
+- Managed and controlled project progress comprehensively. 
+- Timely completed tasks assigned by the company.
 
 <!-- ### Footer
 
