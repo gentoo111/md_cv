@@ -105,8 +105,6 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 ## Project Development Experience
 
-
-
 `2019.04 - 2023.12`
 __Aier Laboratory Information System (ALIS) - Lead Project__
 - Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
