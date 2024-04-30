@@ -7,7 +7,7 @@ title: Luke Shi's CV
 </div>
 # Luke Shi
 
-Senior Java Software Engineer
+Senior Full Stack Software Engineer
 
 <div id="webaddress" style="font-weight: bold; font-size: 14px; color: #333;">
   📞 Phone: 027-888-3395<br>
@@ -24,8 +24,9 @@ Senior Java Software Engineer
     With our beloved family and dog.
 -->
 ## Current Status
-Master of Applied Computing candidate at Lincoln University, utilizing Python and bringing 8 years of Java and front-end development experience.  
-Seeking an internship or part-time in backend or frontend development, bringing strong analytical skills and a collaborative spirit to the team.  
+Master of Applied Computing candidate at Lincoln University, 
+utilizing Python and bringing 8 years of Java and front-end (Node.js, AngularJS, VUE etc.) development experience.  
+Seeking an internship in backend or frontend development, bringing strong analytical skills and a collaborative spirit to the team.  
 Upon graduation will receive an open work visa to work full-time and wish to be in New Zealand for the long term.
 
 ## Specialized in
@@ -33,16 +34,23 @@ Upon graduation will receive an open work visa to work full-time and wish to be 
 - System design and architectural optimization to enhance product performance and maintainability
 - Leading technical teams and effectively managing complex projects and challenges
 - Strong communicator with skills in active listening, clear expression, and fostering collaboration across diverse cultural environments
+- Experience designing solution-level and enterprise-level software architecture
+- Experience with software security practices and frameworks
+- Experience building and leading a team of 5+ Engineers
+- Experience with full-stack development
+- Experience with internet, hosting and domain products
+- Able to write, read and understand a wide range of programming languages, development applications and technical stacks
 
 ## Skills
-- Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
+- Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), 
+Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
 - Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
 - Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
-- Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
+- Web Servers: Apache, Nginx / Apache / HA Proxy, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
-- Operating Systems: Ubuntu, CentOS, macOS, Windows
+- Operating Systems: Linux, Ubuntu, CentOS, macOS, Windows
 - Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
 - HL7 Standards, Medical Equipment
 - English，Chinese
@@ -96,6 +104,8 @@ Courses: Computer Basics, Microcomputer Principles, Databases, Advanced Programm
 Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
 
 ## Project Development Experience
+
+
 
 `2019.04 - 2023.12`
 __Aier Laboratory Information System (ALIS) - Lead Project__
