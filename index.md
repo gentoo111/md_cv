@@ -46,18 +46,35 @@ Upon graduation will receive an open work visa to work full-time and wish to be 
 Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
-- Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
+- Front-end: Node.js, ReactJS, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
 - Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
 - Web Servers: Apache, Nginx / Apache / HA Proxy, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
+- Cloud and Hosting Services: Vercel, Alibaba Cloud, Tencent Cloud, Microsoft Azure, Cloudflare, Google Firebase
 - Operating Systems: Linux, Ubuntu, CentOS, macOS, Windows
 - Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
 - HL7 Standards, Medical Equipment
-- English，Chinese
+- English，Chinese, New Zealand full license
 
 ## Work Experience
 
-`2019 - 2023`
+`2024.03 - Present`
+**Volunteer WordPress Developer/Administrator, The ACFB Fund, Canterbury, New Zealand**
+
+- Recently commenced a volunteer role focusing on the development and administration of WordPress sites for a non-profit organization dedicated to mental health services.
+- Initially tasked with understanding the existing WordPress infrastructure, including plugin management and content system.
+- Participating in preliminary discussions with the web development team to align on upcoming enhancements and web-focused features.
+- Attending in-person volunteer sessions to integrate into the team and comprehend the organization's digital strategy and objectives.
+
+`2024.03 - Present`
+**Volunteer, Recycle a Device (RAD) Club, Christchurch, Canterbury, New Zealand**
+
+- Volunteering with the RAD club to assist in their mission of recycling devices, contributing to environmental sustainability and technological accessibility.
+- Engaging in weekly meetings to collaborate on strategies for efficient device collection, refurbishment, and distribution to those in need.
+- Participating in training sessions to better understand the technical and operational aspects of the recycling process.
+- Utilizing my expertise in computing and software engineering to support the club's activities, offering technical assistance and innovative solutions.
+
+`2019.04 - 2023.11`
 __Aier Eye Hospital Group Company Limited, ChangSha__
 Senior Java Software Engineer & Project Manager
 - Focused on the development of the Laboratory Information System (LIS) within the core business of the HIS (Hospital Information System)
@@ -67,7 +84,7 @@ Senior Java Software Engineer & Project Manager
 - Research and pre-study of key technical difficulties
 - Lead the team of various challenges and technical difficulties, technical guidance and training for the development team
 
-`2017 - 2019`
+`2017.04 - 2019.04`
 __DARK HORSE PROGRAMMER, ChangSha__
 Instructor & Java Software Engineer
 - As an instructor in a training organization, my job is to provide students with high-quality Java programming training courses
@@ -78,16 +95,16 @@ Instructor & Java Software Engineer
 
 ## Education
 
-`2023 - Present`
+`2023.11 - Present`
 __Lincoln University (NZ)__
 Master of Applied Computing
 
 Courses: Python, Business Analysis, GIS, Studio Project, Industry Project, Advanced Programming, Advanced Database Management
 
-`2016 - 2017`
+`2016.02 - 2017.02`
 Completed a one-year Java development training program
 
-`1999 - 2003`
+`1999.09 - 2003.07`
 **Air Force Aviation University**  
 Bachelor's degree, Military Intelligence, General
 
@@ -105,6 +122,48 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 ## Project Development Experience
 
+`2023.03 - Present`
+**GPT Proxy Projects**
+- Deployed two GPT proxy projects to facilitate access to GPT functionalities for friends in mainland China, effectively bypassing local restrictions on GPT API usage.
+- The projects act as intermediaries, proxying requests to the GPT API, and are hosted on Vercel, showcasing my ability to deploy scalable web applications.
+- Accessible at [ai.anymk.com](https://ai.anymk.com/) and [h8.anymk.com](https://h8.anymk.com/), these platforms demonstrate my commitment to providing valuable tools for a wider user base.
+
+`2024.04 - Present`
+**Bruce Bay Beans & Bunks Online System**
+
+- Created an online system for Bruce Bay Beans & Bunks to manage food and drink orders as well as accommodation bookings for tourists.
+- Featured a user-friendly homepage for showcasing food & drink and accommodation, with efficient order and booking management, seamless payment processing, and comprehensive reporting.
+- Developed using Python and Flask framework, with deployment on GitHub and PythonAnywhere.
+
+`2024.03 - 2024.04`
+**Countryside Community Swimming Club Management System**
+
+- Automated the management of member details, bookings for aqua aerobics classes, and one-on-one swimming sessions for the Countryside Community Swimming Club.
+- Enabled swimming instructors to manage their session schedules and managers to oversee the aqua aerobics class timetable, track payments, and generate reports.
+- Constructed with Python and Flask framework, with the codebase available on GitHub and PythonAnywhere.
+
+`2024.01 - 2024.02`
+**Selwyn Panel Beaters Web Application**
+
+- Developed a web-based system to upgrade the internal management system from text-based to web-based for Selwyn Panel Beaters.
+- Implemented interfaces for two types of users: technicians to update customer jobs with parts and services, and office administrators to manage bookings, customer data, billing, and payments.
+- Built with Python and Flask framework, with files hosted on GitHub and PythonAnywhere.
+
+`2023.11 - 2023.12`
+**Car Workshop Management System**
+
+- Developed a web application for Selwyn Panel Beaters to manage customers, jobs, services, parts, and billing.
+- Crafted separate user interfaces for technicians and office administrators to efficiently handle job updates and administrative tasks.
+- Utilized Python and Flask framework for building the application, with project files set up on GitHub and PythonAnywhere.
+
+`2023.05 - 2023.07`
+**AI Chatbot WeChat Mini Program**
+
+- Developed a WeChat Mini Program version of an AI chatbot, providing users with an interactive and intelligent conversational agent directly within the WeChat platform.
+- Integrated the chatbot with OpenAI's API to leverage advanced natural language processing capabilities for accurate and context-aware responses.
+- Utilized Java for backend development to handle API requests and responses, ensuring a seamless and efficient user experience.
+- Implemented the frontend within the WeChat Mini Program framework, focusing on a user-friendly interface and smooth interaction flow.
+
 `2019.04 - 2023.12`
 __Aier Laboratory Information System (ALIS) - Lead Project__
 - Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
@@ -112,7 +171,7 @@ __Aier Laboratory Information System (ALIS) - Lead Project__
 - Engineered and deployed comprehensive General and Pathological Reporting modules for ALIS, streamlining the process of generating precise and detailed laboratory reports for clinical decision-making.
 
 `2022.11 - 2023.12`
-__Hospital Grade Review System (AGRV) - Lead Project__
+__Hospital Grade Review System (AGRV) - Lead Project_
 - Led the overall system development, including design, development, testing, and deployment
 - Coordinated tasks to ensure project completion on time
 - Communicated and coordinated with relevant hospital departments
