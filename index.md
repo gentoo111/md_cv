@@ -46,7 +46,7 @@ Upon graduation will receive an open work visa to work full-time and wish to be 
 Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
-- Front-end: Node.js, ReactJS, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
+- Front-end: Node.js, React, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
 - Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
 - Web Servers: Apache, Nginx / Apache / HA Proxy, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
