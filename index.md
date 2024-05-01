@@ -137,21 +137,21 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 `2024.03 - 2024.04`
 **Countryside Community Swimming Club Management System, Full-Stack Developer**
-
+- [http://comp639clan1swim.pythonanywhere.com/](http://comp639clan1swim.pythonanywhere.com/)
 - Automated the management of member details, bookings for aqua aerobics classes, and one-on-one swimming sessions for the Countryside Community Swimming Club.
 - Enabled swimming instructors to manage their session schedules and managers to oversee the aqua aerobics class timetable, track payments, and generate reports.
 - Constructed with Python and Flask framework, with the codebase available on GitHub and PythonAnywhere.
 
 `2024.01 - 2024.02`
 **Selwyn Panel Beaters Web Application, Full-Stack Developer**
-
+- [http://gentoo222.pythonanywhere.com/](http://gentoo222.pythonanywhere.com/)
 - Developed a web-based system to upgrade the internal management system from text-based to web-based for Selwyn Panel Beaters.
 - Implemented interfaces for two types of users: technicians to update customer jobs with parts and services, and office administrators to manage bookings, customer data, billing, and payments.
 - Built with Python and Flask framework, with files hosted on GitHub and PythonAnywhere.
 
 `2023.11 - 2023.12`
 **Car Workshop Management System, Full-Stack Developer**
-
+- [http://gentoo111.pythonanywhere.com/](http://gentoo111.pythonanywhere.com/)
 - Developed a web application for Selwyn Panel Beaters to manage customers, jobs, services, parts, and billing.
 - Crafted separate user interfaces for technicians and office administrators to efficiently handle job updates and administrative tasks.
 - Utilized Python and Flask framework for building the application, with project files set up on GitHub and PythonAnywhere.
