@@ -142,14 +142,14 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 - Enabled swimming instructors to manage their session schedules and managers to oversee the aqua aerobics class timetable, track payments, and generate reports.
 - Constructed with Python and Flask framework, with the codebase available on GitHub and PythonAnywhere.
 
-`2024.01 - 2024.02`
-**Selwyn Panel Beaters Web Application, Full-Stack Developer**
+`2024.02 - 2024.03`
+**Freshwater Pest and Disease Biosecurity Guide, Full-Stack Developer**
 - [http://gentoo222.pythonanywhere.com/](http://gentoo222.pythonanywhere.com/)
-- Developed a web-based system to upgrade the internal management system from text-based to web-based for Selwyn Panel Beaters.
-- Implemented interfaces for two types of users: technicians to update customer jobs with parts and services, and office administrators to manage bookings, customer data, billing, and payments.
-- Built with Python and Flask framework, with files hosted on GitHub and PythonAnywhere.
+- Developed a Flask Python web application as a biosecurity guide, featuring secure user authentication and role-based dashboards for River Users, Staff, and Administrators.
+- Designed a responsive user interface with a freshwater theme, and implemented a MySQL database schema focusing on data security and integrity.
+- Deployed the application on PythonAnywhere and managed the project via a private GitHub repository, ensuring compliance with academic integrity and coding best practices.
 
-`2023.11 - 2023.12`
+`2024.01 - 2024.02`
 **Car Workshop Management System, Full-Stack Developer**
 - [http://gentoo111.pythonanywhere.com/](http://gentoo111.pythonanywhere.com/)
 - Developed a web application for Selwyn Panel Beaters to manage customers, jobs, services, parts, and billing.
