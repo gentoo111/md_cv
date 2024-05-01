@@ -123,41 +123,41 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 ## Project Development Experience
 
 `2023.03 - Present`
-**GPT Proxy Projects**
+**GPT Proxy Projects, Open-Source Developer**
 - Deployed two GPT proxy projects to facilitate access to GPT functionalities for friends in mainland China, effectively bypassing local restrictions on GPT API usage.
 - The projects act as intermediaries, proxying requests to the GPT API, and are hosted on Vercel, showcasing my ability to deploy scalable web applications.
 - Accessible at [ai.anymk.com](https://ai.anymk.com/) and [h8.anymk.com](https://h8.anymk.com/), these platforms demonstrate my commitment to providing valuable tools for a wider user base.
 
 `2024.04 - Present`
-**Bruce Bay Beans & Bunks Online System**
+**Bruce Bay Beans & Bunks Online System, Full-Stack Developer**
 
 - Created an online system for Bruce Bay Beans & Bunks to manage food and drink orders as well as accommodation bookings for tourists.
 - Featured a user-friendly homepage for showcasing food & drink and accommodation, with efficient order and booking management, seamless payment processing, and comprehensive reporting.
 - Developed using Python and Flask framework, with deployment on GitHub and PythonAnywhere.
 
 `2024.03 - 2024.04`
-**Countryside Community Swimming Club Management System**
+**Countryside Community Swimming Club Management System, Full-Stack Developer**
 
 - Automated the management of member details, bookings for aqua aerobics classes, and one-on-one swimming sessions for the Countryside Community Swimming Club.
 - Enabled swimming instructors to manage their session schedules and managers to oversee the aqua aerobics class timetable, track payments, and generate reports.
 - Constructed with Python and Flask framework, with the codebase available on GitHub and PythonAnywhere.
 
 `2024.01 - 2024.02`
-**Selwyn Panel Beaters Web Application**
+**Selwyn Panel Beaters Web Application, Full-Stack Developer**
 
 - Developed a web-based system to upgrade the internal management system from text-based to web-based for Selwyn Panel Beaters.
 - Implemented interfaces for two types of users: technicians to update customer jobs with parts and services, and office administrators to manage bookings, customer data, billing, and payments.
 - Built with Python and Flask framework, with files hosted on GitHub and PythonAnywhere.
 
 `2023.11 - 2023.12`
-**Car Workshop Management System**
+**Car Workshop Management System, Full-Stack Developer**
 
 - Developed a web application for Selwyn Panel Beaters to manage customers, jobs, services, parts, and billing.
 - Crafted separate user interfaces for technicians and office administrators to efficiently handle job updates and administrative tasks.
 - Utilized Python and Flask framework for building the application, with project files set up on GitHub and PythonAnywhere.
 
 `2023.05 - 2023.07`
-**AI Chatbot WeChat Mini Program**
+**AI Chatbot WeChat Mini Program, Open-Source Developer**
 
 - Developed a WeChat Mini Program version of an AI chatbot, providing users with an interactive and intelligent conversational agent directly within the WeChat platform.
 - Integrated the chatbot with OpenAI's API to leverage advanced natural language processing capabilities for accurate and context-aware responses.
@@ -165,13 +165,13 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 - Implemented the frontend within the WeChat Mini Program framework, focusing on a user-friendly interface and smooth interaction flow.
 
 `2019.04 - 2023.12`
-__Aier Laboratory Information System (ALIS) - Lead Project__
+__Aier Laboratory Information System (ALIS) , Lead Developer & System Architect__
 - Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
 - Conceptualized and executed the Quality Control module within ALIS, establishing robust quality assurance protocols for laboratory test results, thereby reducing errors and improving reliability.
 - Engineered and deployed comprehensive General and Pathological Reporting modules for ALIS, streamlining the process of generating precise and detailed laboratory reports for clinical decision-making.
 
 `2022.11 - 2023.12`
-__Hospital Grade Review System (AGRV) - Lead Project_
+__Hospital Grade Review System (AGRV) , Lead Developer & System Architect__
 - Led the overall system development, including design, development, testing, and deployment
 - Coordinated tasks to ensure project completion on time
 - Communicated and coordinated with relevant hospital departments
@@ -179,59 +179,59 @@ __Hospital Grade Review System (AGRV) - Lead Project_
 - Enhanced technical skills, teamwork, and problem-solving abilities
 
 - `2019.04 - 2023.05`
-  __Internet Hospital System__
+  __Internet Hospital System, Full-Stack Developer__
 - Responsible for managing patient information, appointment, and treatment processes
 - Collaborated closely with various internal hospital departments
 - Participated in requirements analysis, system design, and development testing
 - Ensured system stability and functional integrity
 
 `2022.10 - 2023.03`
-__Clinical Pathway Management System__
+__Clinical Pathway Management System, Full-Stack Developer__
 - Participated in requirement analysis and discussion
 - Involved in basic data maintenance and configuration management to ensure system data accuracy and integrity
 - Participated in system testing and acceptance to ensure quality and stability
 
 `2021.10 - 2022.05`
-__Supply Chain Portal System (ASCP)__
+__Supply Chain Portal System (ASCP) , Lead Developer & System Architect__
 - Project architect and development manager, involved in requirement analysis and definition
 - Designed the project architecture for scalability, maintainability, and reliability
 - Developed basic functional modules to implement essential system features
 - Managed and coordinated development and testing teams to improve collaboration and efficiency
 
 `2018.10 - 2019.03`
-__Intelligent Agriculture IoT__
+__Intelligent Agriculture IoT , Contract Developer__
 - Responsible for the maintenance and development of microservices based on spring cloud
 - Researched and developed related middleware products
 - Led the overall technical and business architecture planning
 
 `2018.02 - 2018.04`
-__AnyMK Single Page Application__
+__AnyMK Single Page Application, Open-Source Developer__
 - Responsive single-page application with a lightweight microservices architecture
 - Supported multiple databases and leveraged JSON for data interchange, achieving front-end and back-end separation. 
 - Integrated quartz for scheduling tasks and implemented cloud storage services.
 
 `2018.01 - 2018.11`
-__IT Easy Learning Online Education Platform__
+__IT Easy Learning Online Education Platform , Lead Developer__
 - Developed a mainstream microservice-based online education solution using SpringCloud 
 - Led technical selection, framework construction, as well as interface and feature development. 
 - Set up the development environment, server deployment, and source code management. 
 - Participated in the design and technical discussions of innovative product solutions.
 
 `2017.06 - 2017.11`
-__MOON Scaffold__
+__MOON Scaffold, Open-Source Developer__
 - Developed an open-source backend scaffold project using SpringBoot
 - Implemented button-level access control and used JSON for data interchange, achieving front-end and back-end separation. 
 - Integrated quartz for scheduling tasks and cloud storage services.
 
 `2017.01 - 2017.03`
-__Yili Steel Network (E-commerce)__
+__Yili Steel Network (E-commerce), Full-Stack Developer__
 - Provided online steel sales services for steel mills and traders
 - Developed a comprehensive steel procurement solution integrating purchasing, logistics, processing, and supply chain finance. 
 - Implemented intelligent supply chain financial products for different product categories. 
 - Built an Internet smart cloud logistics system using IoT and blockchain technology.
 
 `2016.10 - 2016.12`
-__Agricultural Traceability Platform__
+__Agricultural Traceability Platform, Full-Stack Developer__
 - Project management for the quality traceability system for pork products
 - Responsible for project development, testing, and maintenance support. 
 - Managed and controlled project progress comprehensively. 
