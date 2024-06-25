@@ -24,10 +24,11 @@ Senior Full Stack Software Engineer
     With our beloved family and dog.
 -->
 ## Current Status
-Master of Applied Computing candidate at Lincoln University, 
-utilizing Python and bringing 8 years of Java and front-end (Node.js, AngularJS, VUE etc.) development experience.  
-Seeking an internship in backend or frontend development, bringing strong analytical skills and a collaborative spirit to the team.  
-Upon graduation will receive an open work visa to work full-time and wish to be in New Zealand for the long term.
+I am a Master of Applied Computing candidate at Lincoln University, 
+utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, AngularJS, Vue, etc.). 
+I am seeking Student Summer Holiday Employment in backend or frontend development, 
+bringing strong analytical skills and a collaborative spirit to the team. 
+I hold a Post Study Work Visa and wish to remain in New Zealand for the long term.
 
 ## Specialized in
 - Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
@@ -57,14 +58,6 @@ Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Int
 - English，Chinese, New Zealand full license
 
 ## Work Experience
-
-`2024.03 - Present`
-**Volunteer WordPress Developer/Administrator, The ACFB Fund, Canterbury, New Zealand**
-
-- Recently commenced a volunteer role focusing on the development and administration of WordPress sites for a non-profit organization dedicated to mental health services.
-- Initially tasked with understanding the existing WordPress infrastructure, including plugin management and content system.
-- Participating in preliminary discussions with the web development team to align on upcoming enhancements and web-focused features.
-- Attending in-person volunteer sessions to integrate into the team and comprehend the organization's digital strategy and objectives.
 
 `2024.03 - Present`
 **Volunteer, Recycle a Device (RAD) Club, Christchurch, Canterbury, New Zealand**
@@ -122,13 +115,7 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 ## Project Development Experience
 
-`2023.03 - Present`
-**GPT Proxy Projects, Open-Source Developer**
-- Deployed two GPT proxy projects to facilitate access to GPT functionalities for friends in mainland China, effectively bypassing local restrictions on GPT API usage.
-- The projects act as intermediaries, proxying requests to the GPT API, and are hosted on Vercel, showcasing my ability to deploy scalable web applications.
-- Accessible at [ai.anymk.com](https://ai.anymk.com/) and [h8.anymk.com](https://h8.anymk.com/), these platforms demonstrate my commitment to providing valuable tools for a wider user base.
-
-`2024.04 - Present`
+`2024.04 - 2024.06`
 **Bruce Bay Beans & Bunks Online System, Full-Stack Developer**
 
 - Created an online system for Bruce Bay Beans & Bunks to manage food and drink orders as well as accommodation bookings for tourists.
@@ -163,6 +150,12 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 - Integrated the chatbot with OpenAI's API to leverage advanced natural language processing capabilities for accurate and context-aware responses.
 - Utilized Java for backend development to handle API requests and responses, ensuring a seamless and efficient user experience.
 - Implemented the frontend within the WeChat Mini Program framework, focusing on a user-friendly interface and smooth interaction flow.
+
+`2023.03 - 2023.05`
+**GPT Proxy Projects, Open-Source Developer**
+- Deployed two GPT proxy projects to facilitate access to GPT functionalities for friends in mainland China, effectively bypassing local restrictions on GPT API usage.
+- The projects act as intermediaries, proxying requests to the GPT API, and are hosted on Vercel, showcasing my ability to deploy scalable web applications.
+- Accessible at [ai.anymk.com](https://ai.anymk.com/) and [h8.anymk.com](https://h8.anymk.com/), these platforms demonstrate my commitment to providing valuable tools for a wider user base.
 
 `2019.04 - 2023.12`
 __Aier Laboratory Information System (ALIS) , Lead Developer & System Architect__
