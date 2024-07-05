@@ -25,10 +25,10 @@ Senior Full Stack Software Engineer
 -->
 ## Current Status
 I am a Master of Applied Computing candidate at Lincoln University, 
-utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, AngularJS, Vue, etc.). 
-I am seeking Student Summer Holiday Employment in backend or frontend development, 
-bringing strong analytical skills and a collaborative spirit to the team. 
-I hold a Post Study Work Visa and wish to remain in New Zealand for the long term.
+utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, AngularJS, Vue, etc.).
+I am seeking employment in backend or frontend development, 
+bringing strong analytical skills and a collaborative spirit to the team.
+I have the right to work and wish to remain in New Zealand for the long term.
 
 ## Specialized in
 - Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
@@ -47,7 +47,7 @@ I hold a Post Study Work Visa and wish to remain in New Zealand for the long ter
 Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
-- Front-end: Node.js, React, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
+- Front-end: Node.js, React, React Native, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
 - Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
 - Web Servers: Apache, Nginx / Apache / HA Proxy, Tomcat, Netty, Jetty
 - Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
@@ -59,8 +59,16 @@ Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Int
 
 ## Work Experience
 
+`2024.06 - Present`
+__CORDE, Christchurch__
+React Native Developer (Intern)
+- Developed a cross-platform mobile app using React Native, focusing on backend framework setup and business logic implementation.
+- Integrated SQLite for offline data storage and synchronization, ensuring data availability even in remote locations, and communication with Workbench.
+- Integrated ArcGIS for geospatial data visualization and management. 
+- Collaborated effectively with a small team to ensure project success.
+
 `2024.03 - Present`
-**Volunteer, Recycle a Device (RAD) Club, Christchurch, Canterbury, New Zealand**
+**Volunteer, Recycle a Device (RAD) Club, Christchurch**
 
 - Volunteering with the RAD club to assist in their mission of recycling devices, contributing to environmental sustainability and technological accessibility.
 - Engaging in weekly meetings to collaborate on strategies for efficient device collection, refurbishment, and distribution to those in need.
