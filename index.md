@@ -25,7 +25,7 @@ Senior Full Stack Software Engineer
 -->
 ## Current Status
 I am a Master of Applied Computing candidate at Lincoln University, 
-utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, AngularJS, Vue, etc.).
+utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, React.js AngularJS, Vue, etc.).
 I am seeking employment in backend or frontend development, 
 bringing strong analytical skills and a collaborative spirit to the team.
 I have the right to work and wish to remain in New Zealand for the long term.
@@ -46,7 +46,7 @@ I have the right to work and wish to remain in New Zealand for the long term.
 - Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), 
 Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
 - Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
-- Python: Django, Flask, Pandas
+- Python: Django, Flask, Pandas, Machine learning
 - Front-end: Node.js, React, React Native, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
 - Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
 - Web Servers: Apache, Nginx / Apache / HA Proxy, Tomcat, Netty, Jetty
@@ -59,9 +59,15 @@ Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Int
 
 ## Work Experience
 
+`2024.07 - Present`
+__NIWA, Christchurch__
+Web and Machine Learning Developer (Intern)
+- Develop a Web Tool and Machine Learning Model.Develop a Web Tool and Machine Learning Model.
+- Skills: TensorFlow · React.js · Machine Learning · GIS · Python · R
+
 `2024.06 - Present`
 __CORDE, Christchurch__
-React Native Developer (Intern)
+Full-stack Developer (Intern)
 - Developed a cross-platform mobile app using React Native, focusing on backend framework setup and business logic implementation.
 - Integrated SQLite for offline data storage and synchronization, ensuring data availability even in remote locations, and communication with Workbench.
 - Integrated ArcGIS for geospatial data visualization and management. 
