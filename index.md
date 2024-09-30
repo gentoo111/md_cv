@@ -78,7 +78,6 @@ Full-stack Developer (Intern)
 
 `2024.03 - Present`
 **Volunteer, Recycle a Device (RAD) Club, Christchurch**
-
 - Volunteering with the RAD club to assist in their mission of recycling devices, contributing to environmental sustainability and technological accessibility.
 - Engaging in weekly meetings to collaborate on strategies for efficient device collection, refurbishment, and distribution to those in need.
 - Participating in training sessions to better understand the technical and operational aspects of the recycling process.
@@ -153,35 +152,30 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 `2024.04 - 2024.06`
 **Bruce Bay Beans & Bunks Online System, Full-Stack Developer**
-
 - Created an online system for Bruce Bay Beans & Bunks to manage food and drink orders as well as accommodation bookings for tourists.
 - Featured a user-friendly homepage for showcasing food & drink and accommodation, with efficient order and booking management, seamless payment processing, and comprehensive reporting.
 - Developed using Python and Flask framework, with deployment on GitHub and PythonAnywhere.
 
 `2024.03 - 2024.04`
 **Countryside Community Swimming Club Management System, Full-Stack Developer**
-- [http://comp639clan1swim.pythonanywhere.com/](http://comp639clan1swim.pythonanywhere.com/)
 - Automated the management of member details, bookings for aqua aerobics classes, and one-on-one swimming sessions for the Countryside Community Swimming Club.
 - Enabled swimming instructors to manage their session schedules and managers to oversee the aqua aerobics class timetable, track payments, and generate reports.
 - Constructed with Python and Flask framework, with the codebase available on GitHub and PythonAnywhere.
 
 `2024.02 - 2024.03`
 **Freshwater Pest and Disease Biosecurity Guide, Full-Stack Developer**
-- [http://gentoo222.pythonanywhere.com/](http://gentoo222.pythonanywhere.com/)
 - Developed a Flask Python web application as a biosecurity guide, featuring secure user authentication and role-based dashboards for River Users, Staff, and Administrators.
 - Designed a responsive user interface with a freshwater theme, and implemented a MySQL database schema focusing on data security and integrity.
 - Deployed the application on PythonAnywhere and managed the project via a private GitHub repository, ensuring compliance with academic integrity and coding best practices.
 
 `2024.01 - 2024.02`
 **Car Workshop Management System, Full-Stack Developer**
-- [http://gentoo111.pythonanywhere.com/](http://gentoo111.pythonanywhere.com/)
 - Developed a web application for Selwyn Panel Beaters to manage customers, jobs, services, parts, and billing.
 - Crafted separate user interfaces for technicians and office administrators to efficiently handle job updates and administrative tasks.
 - Utilized Python and Flask framework for building the application, with project files set up on GitHub and PythonAnywhere.
 
 `2023.05 - 2023.07`
 **AI Chatbot WeChat Mini Program, Open-Source Developer**
-
 - Developed a WeChat Mini Program version of an AI chatbot, providing users with an interactive and intelligent conversational agent directly within the WeChat platform.
 - Integrated the chatbot with OpenAI's API to leverage advanced natural language processing capabilities for accurate and context-aware responses.
 - Utilized Java for backend development to handle API requests and responses, ensuring a seamless and efficient user experience.
