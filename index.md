@@ -21,7 +21,7 @@ Senior Full Stack Software Engineer
     With our beloved family and dog.
 -->
 ## Current Status
-I am a Master of Applied Computing candidate at Lincoln University, 
+I am currently an Intern Web and Machine Learning Developer at NIWA in Christchurch,
 utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, React.js AngularJS, Vue, etc.).
 I am seeking employment in backend or frontend development, 
 bringing strong analytical skills and a collaborative spirit to the team.
