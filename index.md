@@ -2,9 +2,6 @@
 layout: cv
 title: Luke Shi's CV
 ---
-<div style="text-align: right;">
-  🌍&nbsp;<a href="http://cvc.anymk.com/">中文</a> | English
-</div>
 # Luke Shi
 
 Senior Full Stack Software Engineer
@@ -62,16 +59,22 @@ Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Int
 `2024.07 - Present`
 __NIWA, Christchurch__
 Web and Machine Learning Developer (Intern)
-- Develop a Web Tool and Machine Learning Model.Develop a Web Tool and Machine Learning Model.
+- Develop a Web Tool and Machine Learning Model for advanced hydrological prediction and water resource management.
+- Utilize TensorFlow for building LSTM models to predict river flow rates.
+- Implement interactive visualizations using React.js for data presentation.
+- Apply GIS techniques for spatial data analysis and mapping.
+- Integrate Python and R scripts for comprehensive data processing and analysis.
 - Skills: TensorFlow · React.js · Machine Learning · GIS · Python · R
 
 `2024.06 - Present`
 __CORDE, Christchurch__
 Full-stack Developer (Intern)
-- Developed a cross-platform mobile app using React Native, focusing on backend framework setup and business logic implementation.
-- Integrated SQLite for offline data storage and synchronization, ensuring data availability even in remote locations, and communication with Workbench.
-- Integrated ArcGIS for geospatial data visualization and management. 
-- Collaborated effectively with a small team to ensure project success.
+- Spearheading the development of a cross-platform mobile application using React Native, with a focus on robust backend framework setup and intricate business logic implementation.
+- Engineered an offline-first architecture by integrating SQLite, ensuring seamless data availability and synchronization in remote locations with limited connectivity.
+- Implemented a sophisticated integration with Workbench API for efficient data exchange and management.
+- Incorporated ArcGIS technology for advanced geospatial data visualization and management, enhancing the app's mapping capabilities.
+- Utilized TypeScript to improve code quality and maintainability across the application.
+- Collaborated effectively within a small, agile team to drive project success, participating in regular code reviews and sprint planning sessions.
 
 `2024.03 - Present`
 **Volunteer, Recycle a Device (RAD) Club, Christchurch**
@@ -129,6 +132,25 @@ Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chine
 
 ## Project Development Experience
 
+`2024.07 - Present`
+**Advanced Hydrological Prediction System, NIWA Christchurch**
+- Developing a comprehensive web-based tool for hydrological prediction and water resource management.
+- Implementing machine learning models using TensorFlow to forecast river flow rates with high accuracy.
+- Creating interactive data visualizations with React.js to present complex hydrological data in an intuitive manner.
+- Integrating GIS functionality for spatial analysis and mapping of water resources.
+- Utilizing Python and R for data processing, statistical analysis, and model development.
+- Collaborating with hydrologists and environmental scientists to ensure the tool meets real-world water management needs.
+
+`2024.06 - Present`
+**CORDE Mobile Data Collection Application, Full-stack Developer**
+- Developing a comprehensive mobile application for CORDE to streamline field data collection and management processes for maintenance tasks.
+- Implemented offline data collection functionality using SQLite, enabling field staff to capture and store data even in areas with poor internet connectivity.
+- Integrated the application with Workbench Service Desk API for seamless data synchronization, allowing for real-time updates and log management.
+- Incorporated ArcGIS map layers to display asset-associated logs, enhancing geospatial data visualization and interaction.
+- Utilized React Native and TypeScript to create a cross-platform solution, ensuring compatibility across various Android devices.
+- Implemented robust error handling and data validation to maintain data integrity and improve user experience.
+- Collaborated closely with stakeholders to ensure the application met business requirements and improved operational efficiency.
+
 `2024.04 - 2024.06`
 **Bruce Bay Beans & Bunks Online System, Full-Stack Developer**
 
@@ -185,7 +207,7 @@ __Hospital Grade Review System (AGRV) , Lead Developer & System Architect__
 - Participated in system testing and deployment to ensure system quality and stability
 - Enhanced technical skills, teamwork, and problem-solving abilities
 
-- `2019.04 - 2023.05`
+`2019.04 - 2023.05`
   __Internet Hospital System, Full-Stack Developer__
 - Responsible for managing patient information, appointment, and treatment processes
 - Collaborated closely with various internal hospital departments
