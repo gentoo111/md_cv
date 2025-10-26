@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Zhenzhou Shi (Luke) - Full Stack Software Engineer
+title: Luke - Full Stack Software Engineer
 ---
 
 <div class="cv-header">
-  <h1>Zhenzhou Shi (Luke)</h1>
+  <h1>Luke</h1>
   <p class="cv-tagline">Full Stack Software Engineer | ML Enthusiast | 10+ Years Experience</p>
 
   <div class="cv-contact">
