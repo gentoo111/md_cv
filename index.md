@@ -22,7 +22,7 @@ title: Luke - Full Stack Software Engineer
     </a>
   </div>
 
-  <p class="cv-meta">Auckland, New Zealand | Open Work Visa (Valid until 12/2027) | He/Him</p>
+  <p class="cv-meta">Auckland, New Zealand | He/Him</p>
 </div>
 
 <section class="cv-section">
