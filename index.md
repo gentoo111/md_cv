@@ -505,36 +505,3 @@ title: Zhenzhou Shi (Luke) - Full Stack Software Engineer
     </div>
   </div>
 </section>
-
-<section class="cv-section">
-  <h2>References</h2>
-
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
-    <div class="education-item">
-      <div class="education-school">Dr. Channa Rajanayaka</div>
-      <div class="education-degree">Group Manager - Hydrological Modelling, NIWA</div>
-      <div class="education-details" style="margin-top: 0.5rem;">
-        <a href="tel:0211516824">021 1516 824</a><br>
-        <a href="mailto:Channa.Rajanayaka@niwa.co.nz">Channa.Rajanayaka@niwa.co.nz</a>
-      </div>
-    </div>
-
-    <div class="education-item">
-      <div class="education-school">Barry Clark</div>
-      <div class="education-degree">Digital Development Manager, CORDE</div>
-      <div class="education-details" style="margin-top: 0.5rem;">
-        <a href="tel:0274065780">027 406 5780</a><br>
-        <a href="mailto:barry.clark@corde.nz">barry.clark@corde.nz</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="cv-section">
-  <h2>Work Authorization</h2>
-
-  <div class="cv-summary">
-    <strong>Post Study Work Visa:</strong> Valid until 20 December 2027. Eligible to work for any employer in any occupation in New Zealand without restrictions. Open to relocation.
-  </div>
-</section>
-
