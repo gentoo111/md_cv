@@ -1,265 +1,540 @@
 ---
 layout: cv
-title: Luke Shi's CV
+title: Zhenzhou Shi (Luke) - Full Stack Software Engineer
 ---
-# Luke Shi
 
-Senior Full Stack Software Engineer
+<div class="cv-header">
+  <h1>Zhenzhou Shi (Luke)</h1>
+  <p class="cv-tagline">Full Stack Software Engineer | ML Enthusiast | 10+ Years Experience</p>
 
-<div id="webaddress" style="font-weight: bold; font-size: 14px; color: #333;">
-  📞 Phone: 027-888-3395<br>
-  📧 Email: <a href="mailto:szz185@gmail.com" style="color: #555;">szz185@gmail.com</a><br>
-  🌐 LinkedIn: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/" style="color: #555;">Zhenzhou (Luke) Shi</a><br>
-  🐙 GitHub: <a href="https://github.com/gentoo111" style="color: #555;">gentoo111</a><br>
-  📄 Online CV: <a href="https://cv.anymk.com/" style="color: #555;">https://cv.anymk.com/</a>
+  <div class="cv-contact">
+    <a href="https://github.com/gentoo111" target="_blank" rel="noopener">
+      <i class="fab fa-github cv-contact-icon"></i> GitHub
+    </a>
+    <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/" target="_blank" rel="noopener">
+      <i class="fab fa-linkedin cv-contact-icon"></i> LinkedIn
+    </a>
+    <a href="mailto:szz185@gmail.com">
+      <i class="fas fa-envelope cv-contact-icon"></i> szz185@gmail.com
+    </a>
+    <a href="tel:+64278883395">
+      <i class="fas fa-phone cv-contact-icon"></i> +64 27 888 3395
+    </a>
+  </div>
+
+  <p class="cv-meta">Auckland, New Zealand | Open Work Visa (Valid until 12/2027) | He/Him</p>
 </div>
 
-<!-- 
-    <h4>Dream:</h4> 
-    Living by the sea,
-    Lost in contemplation,
-    With our beloved family and dog.
--->
-## Current Status
-I am currently an Intern Web and Machine Learning Developer at NIWA in Christchurch,
-utilizing Python and bringing 8 years of experience in Java and front-end development (Node.js, React.js AngularJS, Vue, etc.).
-I am seeking employment in backend or frontend development, 
-bringing strong analytical skills and a collaborative spirit to the team.
-I have the right to work and wish to remain in New Zealand for the long term.
+<section class="cv-section">
+  <h2>Summary</h2>
+  <div class="cv-summary">
+    Full Stack Software Engineer with 10+ years of experience in backend systems, frontend development, and team leadership. Skilled in architecting scalable cloud-native systems with microservices and containerized deployments. Implemented CI/CD pipelines using Jenkins, GitHub Actions and Docker to automate build, test, and deployment stages, significantly reducing release time and improving consistency across environments. Strong communication skills and collaborative approach to software development. Recent work includes a machine learning project at NIWA and a React Native mobile app at CORDE. Seeking impactful engineering roles in NZ tech teams.
+  </div>
+</section>
 
-## Specialized in
-- Expertise in backend development with Java and crafting efficient user interfaces with front-end technologies
-- System design and architectural optimization to enhance product performance and maintainability
-- Leading technical teams and effectively managing complex projects and challenges
-- Strong communicator with skills in active listening, clear expression, and fostering collaboration across diverse cultural environments
-- Experience designing solution-level and enterprise-level software architecture
-- Experience with software security practices and frameworks
-- Experience building and leading a team of 5+ Engineers
-- Experience with full-stack development
-- Experience with internet, hosting and domain products
-- Able to write, read and understand a wide range of programming languages, development applications and technical stacks
+<section class="cv-section">
+  <h2>Technical Expertise</h2>
 
-## Skills
-- Methodologies: Business Analysis (BA), Agile Development (Scrum), Domain-Driven Design (DDD), 
-Test-Driven Development (TDD), Behavior-Driven Development (BDD), Continuous Integration and Continuous Deployment (CI/CD)
-- Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
-- Python: Django, Flask, Pandas, Machine learning
-- Front-end: Node.js, React, React Native, AngularJS, VUE, JQuery, LayUI, EasyUI, HTML, CSS, JavaScript, TypeScript
-- Databases: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
-- Web Servers: Apache, Nginx / Apache / HA Proxy, Tomcat, Netty, Jetty
-- Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
-- Cloud and Hosting Services: Vercel, Alibaba Cloud, Tencent Cloud, Microsoft Azure, Cloudflare, Google Firebase
-- Operating Systems: Linux, Ubuntu, CentOS, macOS, Windows
-- Other Tools: Jenkins, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
-- HL7 Standards, Medical Equipment
-- English，Chinese, New Zealand full license
+  <div class="skills-category">
+    <h3>Languages</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">Java</span>
+      <span class="skill-tag">Python</span>
+      <span class="skill-tag">C#</span>
+      <span class="skill-tag">TypeScript</span>
+      <span class="skill-tag">JavaScript</span>
+      <span class="skill-tag">R</span>
+      <span class="skill-tag">SQL</span>
+      <span class="skill-tag">Bash</span>
+    </div>
+  </div>
 
-## Work Experience
+  <div class="skills-category">
+    <h3>Frontend</h3>
+    <div class="skills-tags">
+      <span class="skill-tag frontend">React</span>
+      <span class="skill-tag frontend">React Native</span>
+      <span class="skill-tag frontend">Vue.js</span>
+      <span class="skill-tag frontend">Angular</span>
+      <span class="skill-tag frontend">Next.js</span>
+      <span class="skill-tag frontend">jQuery</span>
+      <span class="skill-tag frontend">Tailwind CSS</span>
+      <span class="skill-tag frontend">Material-UI</span>
+    </div>
+  </div>
 
-`2024.07 - Present`
-__NIWA, Christchurch__
-Web and Machine Learning Developer (Intern)
-- Develop a Web Tool and Machine Learning Model for advanced hydrological prediction and water resource management.
-- Utilize TensorFlow for building LSTM models to predict river flow rates.
-- Implement interactive visualizations using React.js for data presentation.
-- Apply GIS techniques for spatial data analysis and mapping.
-- Integrate Python and R scripts for comprehensive data processing and analysis.
-- Skills: TensorFlow · React.js · Machine Learning · GIS · Python · R
+  <div class="skills-category">
+    <h3>Backend</h3>
+    <div class="skills-tags">
+      <span class="skill-tag backend">Spring Boot/Cloud</span>
+      <span class="skill-tag backend">JPA</span>
+      <span class="skill-tag backend">Node.js</span>
+      <span class="skill-tag backend">WebService</span>
+      <span class="skill-tag backend">RESTful</span>
+      <span class="skill-tag backend">Django</span>
+      <span class="skill-tag backend">Flask</span>
+      <span class="skill-tag backend">FastAPI</span>
+      <span class="skill-tag backend">GraphQL</span>
+    </div>
+  </div>
 
-`2024.06 - Present`
-__CORDE, Christchurch__
-Full-stack Developer (Intern)
-- Spearheading the development of a cross-platform mobile application using React Native, with a focus on robust backend framework setup and intricate business logic implementation.
-- Engineered an offline-first architecture by integrating SQLite, ensuring seamless data availability and synchronization in remote locations with limited connectivity.
-- Implemented a sophisticated integration with Workbench API for efficient data exchange and management.
-- Incorporated ArcGIS technology for advanced geospatial data visualization and management, enhancing the app's mapping capabilities.
-- Utilized TypeScript to improve code quality and maintainability across the application.
-- Collaborated effectively within a small, agile team to drive project success, participating in regular code reviews and sprint planning sessions.
+  <div class="skills-category">
+    <h3>Cloud/DevOps</h3>
+    <div class="skills-tags">
+      <span class="skill-tag cloud">Kubernetes</span>
+      <span class="skill-tag cloud">Docker</span>
+      <span class="skill-tag cloud">Jenkins</span>
+      <span class="skill-tag cloud">Git</span>
+      <span class="skill-tag cloud">Azure</span>
+      <span class="skill-tag cloud">AWS</span>
+      <span class="skill-tag cloud">Tencent Cloud</span>
+      <span class="skill-tag cloud">Linux</span>
+      <span class="skill-tag cloud">CI/CD</span>
+    </div>
+  </div>
 
-`2024.03 - Present`
-**Volunteer, Recycle a Device (RAD) Club, Christchurch**
-- Volunteering with the RAD club to assist in their mission of recycling devices, contributing to environmental sustainability and technological accessibility.
-- Engaging in weekly meetings to collaborate on strategies for efficient device collection, refurbishment, and distribution to those in need.
-- Participating in training sessions to better understand the technical and operational aspects of the recycling process.
-- Utilizing my expertise in computing and software engineering to support the club's activities, offering technical assistance and innovative solutions.
+  <div class="skills-category">
+    <h3>Databases</h3>
+    <div class="skills-tags">
+      <span class="skill-tag database">Oracle</span>
+      <span class="skill-tag database">PostgreSQL</span>
+      <span class="skill-tag database">MongoDB</span>
+      <span class="skill-tag database">Redis</span>
+      <span class="skill-tag database">MySQL</span>
+      <span class="skill-tag database">SQL Server</span>
+      <span class="skill-tag database">SQLite</span>
+      <span class="skill-tag database">ElasticSearch</span>
+    </div>
+  </div>
 
-`2019.04 - 2023.11`
-__Aier Eye Hospital Group Company Limited, ChangSha__
-Senior Java Software Engineer & Project Manager
-- Focused on the development of the Laboratory Information System (LIS) within the core business of the HIS (Hospital Information System)
-- Responsible for system architecture design work
-- Responsible for optimizing the existing technical architecture, improve system stability, scalability, security
-- Responsible for product technology selection, design of product technology architecture, interface specifications
-- Research and pre-study of key technical difficulties
-- Lead the team of various challenges and technical difficulties, technical guidance and training for the development team
+  <div class="skills-category">
+    <h3>GIS/Mapping</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">ArcGIS</span>
+      <span class="skill-tag">QGIS</span>
+      <span class="skill-tag">Leaflet.js</span>
+      <span class="skill-tag">GeoPandas</span>
+      <span class="skill-tag">Shapely</span>
+      <span class="skill-tag">OpenLayers</span>
+    </div>
+  </div>
 
-`2017.04 - 2019.04`
-__DARK HORSE PROGRAMMER, ChangSha__
-Instructor & Java Software Engineer
-- As an instructor in a training organization, my job is to provide students with high-quality Java programming training courses
-- Design and develop lesson plans, including syllabus, case studies, programming practice, etc.
-- Use interactive teaching methods to actively involve students in the classroom during the course of instruction
-- Goal to make students become excellent Java programmers under my guidance
-- Trained more than 1000 students in two years
+  <div class="skills-category">
+    <h3>HL7/Medical</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">HL7 Standards</span>
+      <span class="skill-tag">Medical Equipment Integration</span>
+    </div>
+  </div>
 
-## Education
+  <div class="skills-category">
+    <h3>ML/Data</h3>
+    <div class="skills-tags">
+      <span class="skill-tag ml">TensorFlow</span>
+      <span class="skill-tag ml">Keras</span>
+      <span class="skill-tag ml">PyTorch</span>
+      <span class="skill-tag ml">Scikit-learn</span>
+      <span class="skill-tag ml">Pandas</span>
+      <span class="skill-tag ml">NumPy</span>
+      <span class="skill-tag ml">Matplotlib</span>
+      <span class="skill-tag ml">Seaborn</span>
+    </div>
+  </div>
 
-`2023.11 - Present`
-__Lincoln University (NZ)__
-Master of Applied Computing
+  <div class="skills-category">
+    <h3>Testing</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">Selenium</span>
+      <span class="skill-tag">Cypress</span>
+      <span class="skill-tag">JUnit</span>
+      <span class="skill-tag">PyTest</span>
+      <span class="skill-tag">Postman</span>
+    </div>
+  </div>
 
-Courses: Python, Business Analysis, GIS, Studio Project, Industry Project, Advanced Programming, Advanced Database Management
+  <div class="skills-category">
+    <h3>Methodologies</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">DDD</span>
+      <span class="skill-tag">TDD</span>
+      <span class="skill-tag">BDD</span>
+      <span class="skill-tag">Agile/Scrum</span>
+      <span class="skill-tag">Business Analysis</span>
+    </div>
+  </div>
+</section>
+<section class="cv-section">
+  <h2>Work Experience</h2>
 
-`2016.02 - 2017.02`
-Completed a one-year Java development training program
+  <div class="timeline">
+    <!-- CORDE -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">CORDE</div>
+          <div class="timeline-role">Full-stack Developer (Contract)</div>
+          <div class="timeline-location">Christchurch | Remote</div>
+        </div>
+        <div class="timeline-date">06/2024 - Present</div>
+      </div>
 
-`1999.09 - 2003.07`
-**Air Force Aviation University**  
-Bachelor's degree, Military Intelligence, General
+      <div class="timeline-content">
+        <p class="timeline-description">
+          Led development of enterprise applications including cross-platform mobile solutions and automated field operation systems.
+        </p>
 
-Courses: Computer Basics, Microcomputer Principles, Databases, Advanced Programming, Image Processing, Photography Studies
+        <div class="timeline-projects">
+          <h4>Key Projects</h4>
 
-## Awards & Originality
+          <div class="project-item">
+            <div class="project-name">CORDE Mobile Application</div>
+            <p class="project-description">
+              Cross-platform field operations app with GIS integration, real-time synchronization, and offline-first architecture
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">React Native</span>
+              <span class="tech-tag">NativeBase</span>
+              <span class="tech-tag">TypeScript</span>
+              <span class="tech-tag">SQLite</span>
+              <span class="tech-tag">GIS</span>
+            </div>
+          </div>
 
-- CSDN Blog Expert, CSDN Top 10 Blogstar of 2019
-- More than 300 original technical articles, total visits 1.9 million
+          <div class="project-item">
+            <div class="project-name">Water Meter Management System</div>
+            <p class="project-description">
+              Full-stack solution with Python FastAPI backend, React admin portal, and React Native mobile app for automated meter reading
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Python FastAPI</span>
+              <span class="tech-tag">React</span>
+              <span class="tech-tag">React Native</span>
+              <span class="tech-tag">Node.js</span>
+            </div>
+          </div>
 
-## Publications
+          <div class="project-item">
+            <div class="project-name">AI Water Meter Recognition</div>
+            <p class="project-description">
+              Machine learning OCR system with custom model training for high-precision automated readings
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Machine Learning</span>
+              <span class="tech-tag">OCR</span>
+              <span class="tech-tag">Python</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-`2023`
-Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
+    <!-- NIWA -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">NIWA</div>
+          <div class="timeline-role">Web and Machine Learning Developer (Intern)</div>
+          <div class="timeline-location">Christchurch</div>
+        </div>
+        <div class="timeline-date">07/2024 - 02/2025</div>
+      </div>
 
-## Project Development Experience
+      <div class="timeline-content">
+        <p class="timeline-description">
+          Built a hydrological forecasting system with FastAPI, PostgreSQL, React, and Dockerized services via GitLab CI/CD.
+        </p>
 
-`2024.07 - Present`
-**Advanced Hydrological Prediction System, NIWA Christchurch**
-- Developing a comprehensive web-based tool for hydrological prediction and water resource management.
-- Implementing machine learning models using TensorFlow to forecast river flow rates with high accuracy.
-- Creating interactive data visualizations with React.js to present complex hydrological data in an intuitive manner.
-- Integrating GIS functionality for spatial analysis and mapping of water resources.
-- Utilizing Python and R for data processing, statistical analysis, and model development.
-- Collaborating with hydrologists and environmental scientists to ensure the tool meets real-world water management needs.
+        <div class="timeline-achievements">
+          <ul>
+            <li>Developed RESTful APIs in FastAPI for data ingestion and model output</li>
+            <li>Built GIS dashboards with React.js & Leaflet.js for interactive visualization</li>
+            <li>Containerized services with Docker and automated deployments using GitLab CI/CD</li>
+            <li>Integrated TensorFlow models (LSTM/CNN) and R preprocessing as backend services</li>
+            <li class="highlight">Demonstrated the project at the 2023 New Zealand Hydrological Society Annual Conference, gaining recognition from industry experts</li>
+          </ul>
+        </div>
 
-`2024.06 - Present`
-**CORDE Mobile Data Collection Application, Full-stack Developer**
-- Developing a comprehensive mobile application for CORDE to streamline field data collection and management processes for maintenance tasks.
-- Implemented offline data collection functionality using SQLite, enabling field staff to capture and store data even in areas with poor internet connectivity.
-- Integrated the application with Workbench Service Desk API for seamless data synchronization, allowing for real-time updates and log management.
-- Incorporated ArcGIS map layers to display asset-associated logs, enhancing geospatial data visualization and interaction.
-- Utilized React Native and TypeScript to create a cross-platform solution, ensuring compatibility across various Android devices.
-- Implemented robust error handling and data validation to maintain data integrity and improve user experience.
-- Collaborated closely with stakeholders to ensure the application met business requirements and improved operational efficiency.
+        <div class="project-tech">
+          <span class="tech-tag">TensorFlow</span>
+          <span class="tech-tag">React.js</span>
+          <span class="tech-tag">Tailwind</span>
+          <span class="tech-tag">Machine Learning</span>
+          <span class="tech-tag">GIS</span>
+          <span class="tech-tag">Python</span>
+          <span class="tech-tag">FastAPI</span>
+          <span class="tech-tag">PostgreSQL</span>
+          <span class="tech-tag">R</span>
+        </div>
+      </div>
+    </div>
 
-`2024.04 - 2024.06`
-**Bruce Bay Beans & Bunks Online System, Full-Stack Developer**
-- Created an online system for Bruce Bay Beans & Bunks to manage food and drink orders as well as accommodation bookings for tourists.
-- Featured a user-friendly homepage for showcasing food & drink and accommodation, with efficient order and booking management, seamless payment processing, and comprehensive reporting.
-- Developed using Python and Flask framework, with deployment on GitHub and PythonAnywhere.
+    <!-- Aier Eye Hospital -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">Aier Eye Hospital Group</div>
+          <div class="timeline-role">Senior Full Stack Developer & Project Manager</div>
+          <div class="timeline-location">China</div>
+        </div>
+        <div class="timeline-date">04/2019 - 11/2023</div>
+      </div>
 
-`2024.03 - 2024.04`
-**Countryside Community Swimming Club Management System, Full-Stack Developer**
-- Automated the management of member details, bookings for aqua aerobics classes, and one-on-one swimming sessions for the Countryside Community Swimming Club.
-- Enabled swimming instructors to manage their session schedules and managers to oversee the aqua aerobics class timetable, track payments, and generate reports.
-- Constructed with Python and Flask framework, with the codebase available on GitHub and PythonAnywhere.
+      <div class="timeline-content">
+        <p class="timeline-description">
+          Led a team of 6 developers in building a multi-module healthcare SaaS platform, overseeing sprint planning, task assignment, and stakeholder communication. Established documentation standards and Git workflow conventions.
+        </p>
 
-`2024.02 - 2024.03`
-**Freshwater Pest and Disease Biosecurity Guide, Full-Stack Developer**
-- Developed a Flask Python web application as a biosecurity guide, featuring secure user authentication and role-based dashboards for River Users, Staff, and Administrators.
-- Designed a responsive user interface with a freshwater theme, and implemented a MySQL database schema focusing on data security and integrity.
-- Deployed the application on PythonAnywhere and managed the project via a private GitHub repository, ensuring compliance with academic integrity and coding best practices.
+        <div class="timeline-projects">
+          <h4>Key Projects</h4>
 
-`2024.01 - 2024.02`
-**Car Workshop Management System, Full-Stack Developer**
-- Developed a web application for Selwyn Panel Beaters to manage customers, jobs, services, parts, and billing.
-- Crafted separate user interfaces for technicians and office administrators to efficiently handle job updates and administrative tasks.
-- Utilized Python and Flask framework for building the application, with project files set up on GitHub and PythonAnywhere.
+          <div class="project-item">
+            <div class="project-name">Laboratory Information System (LIS) - Core Development Lead</div>
+            <ul class="timeline-achievements">
+              <li>Built a cloud-native microservices platform with Spring Cloud, enabling service discovery, circuit breaker, and configuration</li>
+              <li class="highlight">Optimized SQL queries to improve performance by 70% through indexing, query refactoring, and Redis caching</li>
+              <li>Ensured zero downtime migration from Tencent Cloud to a private cloud, enhancing system reliability and performance</li>
+              <li class="highlight">Enabled seamless integration with 100+ medical devices by implementing HL7 standard interfaces</li>
+              <li>Automated CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time from days to hours</li>
+            </ul>
+            <div class="project-tech">
+              <span class="tech-tag">Java</span>
+              <span class="tech-tag">Spring Cloud</span>
+              <span class="tech-tag">Spring Boot</span>
+              <span class="tech-tag">MyBatis</span>
+              <span class="tech-tag">Kafka</span>
+              <span class="tech-tag">Redis</span>
+              <span class="tech-tag">Oracle</span>
+              <span class="tech-tag">Docker</span>
+              <span class="tech-tag">Kubernetes</span>
+              <span class="tech-tag">ELK Stack</span>
+              <span class="tech-tag">Jenkins</span>
+            </div>
+          </div>
 
-`2023.05 - 2023.07`
-**AI Chatbot WeChat Mini Program, Open-Source Developer**
-- Developed a WeChat Mini Program version of an AI chatbot, providing users with an interactive and intelligent conversational agent directly within the WeChat platform.
-- Integrated the chatbot with OpenAI's API to leverage advanced natural language processing capabilities for accurate and context-aware responses.
-- Utilized Java for backend development to handle API requests and responses, ensuring a seamless and efficient user experience.
-- Implemented the frontend within the WeChat Mini Program framework, focusing on a user-friendly interface and smooth interaction flow.
+          <div class="project-item">
+            <div class="project-name">Lab Communication System (C#)</div>
+            <ul class="timeline-achievements">
+              <li>Developed and deployed C# applications across 500+ hospital labs</li>
+              <li class="highlight">Integrated 4,000+ devices in real-time via HL7 and custom USB/Ethernet gateways</li>
+              <li class="highlight">Ensured 99.9% accuracy and secure transmission of 10M+ lab results annually</li>
+            </ul>
+            <div class="project-tech">
+              <span class="tech-tag">C#</span>
+              <span class="tech-tag">.NET Framework</span>
+              <span class="tech-tag">HL7</span>
+              <span class="tech-tag">Interface Gateway</span>
+            </div>
+          </div>
 
-`2023.03 - 2023.05`
-**GPT Proxy Projects, Open-Source Developer**
-- Deployed two GPT proxy projects to facilitate access to GPT functionalities for friends in mainland China, effectively bypassing local restrictions on GPT API usage.
-- The projects act as intermediaries, proxying requests to the GPT API, and are hosted on Vercel, showcasing my ability to deploy scalable web applications.
-- Accessible at [ai.anymk.com](https://ai.anymk.com/) and [h8.anymk.com](https://h8.anymk.com/), these platforms demonstrate my commitment to providing valuable tools for a wider user base.
+          <div class="project-item">
+            <div class="project-name">Enterprise Healthcare Suite (5 Major Systems)</div>
+            <ul class="timeline-achievements">
+              <li>Designed backend systems for 5 major hospital modules (patient, doctor, pharmacy, billing, HR)</li>
+              <li class="highlight">Supported 10,000+ concurrent users and 100K+ daily transactions</li>
+              <li>Migrated systems to Kubernetes, applied SQL and Redis performance optimization</li>
+            </ul>
+            <div class="project-tech">
+              <span class="tech-tag">Spring Boot</span>
+              <span class="tech-tag">VUE</span>
+              <span class="tech-tag">React.js</span>
+              <span class="tech-tag">Docker</span>
+              <span class="tech-tag">Oracle</span>
+              <span class="tech-tag">MongoDB</span>
+              <span class="tech-tag">Kafka</span>
+              <span class="tech-tag">Redis</span>
+            </div>
+          </div>
+        </div>
 
-`2019.04 - 2023.12`
-__Aier Laboratory Information System (ALIS) , Lead Developer & System Architect__
-- Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
-- Conceptualized and executed the Quality Control module within ALIS, establishing robust quality assurance protocols for laboratory test results, thereby reducing errors and improving reliability.
-- Engineered and deployed comprehensive General and Pathological Reporting modules for ALIS, streamlining the process of generating precise and detailed laboratory reports for clinical decision-making.
+        <div class="timeline-achievements">
+          <h4>Impact & Scale</h4>
+          <ul>
+            <li class="highlight">Supported 10,000+ daily active users across 500+ institutions with 99.9% system uptime</li>
+            <li>Reduced query response times to under 1 second and improved deployment efficiency significantly</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-`2022.11 - 2023.12`
-__Hospital Grade Review System (AGRV) , Lead Developer & System Architect__
-- Led the overall system development, including design, development, testing, and deployment
-- Coordinated tasks to ensure project completion on time
-- Communicated and coordinated with relevant hospital departments
-- Participated in system testing and deployment to ensure system quality and stability
-- Enhanced technical skills, teamwork, and problem-solving abilities
+    <!-- CHUANZHI PODCAST GROUP -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">CHUANZHI PODCAST GROUP</div>
+          <div class="timeline-role">Full-Stack Developer & Instructor</div>
+          <div class="timeline-location">China</div>
+        </div>
+        <div class="timeline-date">04/2017 - 04/2019</div>
+      </div>
 
-`2019.04 - 2023.05`
-  __Internet Hospital System, Full-Stack Developer__
-- Responsible for managing patient information, appointment, and treatment processes
-- Collaborated closely with various internal hospital departments
-- Participated in requirements analysis, system design, and development testing
-- Ensured system stability and functional integrity
+      <div class="timeline-content">
+        <p class="timeline-description">
+          Delivered high-quality project-based training courses while leading development of key full-stack applications to showcase best practices and industry-standard development techniques.
+        </p>
 
-`2022.10 - 2023.03`
-__Clinical Pathway Management System, Full-Stack Developer__
-- Participated in requirement analysis and discussion
-- Involved in basic data maintenance and configuration management to ensure system data accuracy and integrity
-- Participated in system testing and acceptance to ensure quality and stability
+        <div class="timeline-projects">
+          <h4>Key Projects</h4>
 
-`2021.10 - 2022.05`
-__Supply Chain Portal System (ASCP) , Lead Developer & System Architect__
-- Project architect and development manager, involved in requirement analysis and definition
-- Designed the project architecture for scalability, maintainability, and reliability
-- Developed basic functional modules to implement essential system features
-- Managed and coordinated development and testing teams to improve collaboration and efficiency
+          <div class="project-item">
+            <div class="project-name">EasyLearn Online Education Platform</div>
+            <p class="project-description">
+              Full-stack online education system for course scheduling, enrollment, and user progress tracking. Supported 1,000+ concurrent users.
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Spring Boot</span>
+              <span class="tech-tag">JPA</span>
+              <span class="tech-tag">Vue.js</span>
+              <span class="tech-tag">MySQL</span>
+              <span class="tech-tag">Redis</span>
+              <span class="tech-tag">Docker</span>
+            </div>
+          </div>
 
-`2018.10 - 2019.03`
-__Intelligent Agriculture IoT , Contract Developer__
-- Responsible for the maintenance and development of microservices based on spring cloud
-- Researched and developed related middleware products
-- Led the overall technical and business architecture planning
+          <div class="project-item">
+            <div class="project-name">Smart Farm IoT Platform</div>
+            <p class="project-description">
+              Smart agriculture platform integrating sensor data with environmental control logic. Real-time dashboards with React.js and MQTT communication for edge devices.
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Spring Cloud</span>
+              <span class="tech-tag">React.js</span>
+              <span class="tech-tag">MongoDB</span>
+              <span class="tech-tag">MQTT</span>
+              <span class="tech-tag">Kubernetes</span>
+            </div>
+          </div>
+        </div>
 
-`2018.02 - 2018.04`
-__AnyMK Single Page Application, Open-Source Developer__
-- Responsive single-page application with a lightweight microservices architecture
-- Supported multiple databases and leveraged JSON for data interchange, achieving front-end and back-end separation. 
-- Integrated quartz for scheduling tasks and implemented cloud storage services.
+        <div class="timeline-achievements">
+          <h4>Impact</h4>
+          <ul>
+            <li class="highlight">Trained and mentored 1,000+ students, equipping them with practical project experience and industry-ready skills</li>
+            <li>Delivered two production-grade projects showcasing modern full-stack architecture, served as templates for student learning</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-`2018.01 - 2018.11`
-__IT Easy Learning Online Education Platform , Lead Developer__
-- Developed a mainstream microservice-based online education solution using SpringCloud 
-- Led technical selection, framework construction, as well as interface and feature development. 
-- Set up the development environment, server deployment, and source code management. 
-- Participated in the design and technical discussions of innovative product solutions.
+<section class="cv-section">
+  <h2>Education</h2>
 
-`2017.06 - 2017.11`
-__MOON Scaffold, Open-Source Developer__
-- Developed an open-source backend scaffold project using SpringBoot
-- Implemented button-level access control and used JSON for data interchange, achieving front-end and back-end separation. 
-- Integrated quartz for scheduling tasks and cloud storage services.
+  <div class="education-item">
+    <div class="education-header">
+      <div>
+        <div class="education-school">Lincoln University (NZ)</div>
+        <div class="education-degree">Master of Applied Computing (GPA: 7.778)</div>
+      </div>
+      <div class="education-date">11/2023 - 11/2024</div>
+    </div>
+    <div class="education-details">
+      <strong>Focus:</strong> Machine Learning, Python, Web Development, GIS
+    </div>
+  </div>
 
-`2017.01 - 2017.03`
-__Yili Steel Network (E-commerce), Full-Stack Developer__
-- Provided online steel sales services for steel mills and traders
-- Developed a comprehensive steel procurement solution integrating purchasing, logistics, processing, and supply chain finance. 
-- Implemented intelligent supply chain financial products for different product categories. 
-- Built an Internet smart cloud logistics system using IoT and blockchain technology.
+  <div class="education-item">
+    <div class="education-header">
+      <div>
+        <div class="education-school">Aviation University</div>
+        <div class="education-degree">Bachelor of Data Analysis & Information Systems</div>
+      </div>
+      <div class="education-date">09/1999 - 07/2003</div>
+    </div>
+    <div class="education-details">
+      <strong>Focus:</strong> Data Analysis & Information Systems
+    </div>
+  </div>
+</section>
 
-`2016.10 - 2016.12`
-__Agricultural Traceability Platform, Full-Stack Developer__
-- Project management for the quality traceability system for pork products
-- Responsible for project development, testing, and maintenance support. 
-- Managed and controlled project progress comprehensively. 
-- Timely completed tasks assigned by the company.
+<section class="cv-section">
+  <h2>Open Source Contributions</h2>
 
-<!-- ### Footer
+  <ul class="achievement-list">
+    <li class="achievement-item">
+      <strong>AI Chatbot WeChat Mini Program (2023):</strong> Developed a mini program for AI-driven chat bot integration, enhancing user engagement with streamlined NLP solutions.
+    </li>
+    <li class="achievement-item">
+      <strong>GPT Proxy Projects (2023):</strong> Built proxy tools for GPT integration to improve accessibility and response efficiency.
+    </li>
+    <li class="achievement-item">
+      <strong>AnyMK Single Page Application (2018):</strong> Created a lightweight SPA framework for rapid front-end development.
+    </li>
+    <li class="achievement-item">
+      <strong>MOON Scaffold (2017):</strong> Designed a modular scaffold to accelerate full-stack project development.
+    </li>
+  </ul>
+</section>
 
-Last updated: January 2024 -->
+<section class="cv-section">
+  <h2>Publications & Achievements</h2>
+
+  <ul class="achievement-list">
+    <li class="achievement-item">
+      <strong>Published book:</strong> Algorithms Around You: Interviews, Promotions and Engineering (2023)
+    </li>
+    <li class="achievement-item">
+      <strong>CSDN Blog Expert:</strong> Recognized as Top 10 Blog star (2019) with 300+ original technical articles and 1.9M+ total visits
+    </li>
+    <li class="achievement-item">
+      <strong>Microsoft Certified:</strong> Azure AI Fundamentals (AI-900) (2024)
+    </li>
+  </ul>
+</section>
+
+<section class="cv-section">
+  <h2>Volunteer Experience</h2>
+
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">Recycle a Device (RAD) Club</div>
+          <div class="timeline-role">Device Repair Specialist (Volunteer)</div>
+          <div class="timeline-location">Christchurch</div>
+        </div>
+        <div class="timeline-date">03/2024 - 10/2024</div>
+      </div>
+
+      <div class="timeline-content">
+        <ul class="timeline-achievements">
+          <li>Assist in recycling and refurbishing devices to promote sustainable technology usage</li>
+          <li>Provide technical support and innovative solutions to extend device life cycles</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>References</h2>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+    <div class="education-item">
+      <div class="education-school">Dr. Channa Rajanayaka</div>
+      <div class="education-degree">Group Manager - Hydrological Modelling, NIWA</div>
+      <div class="education-details" style="margin-top: 0.5rem;">
+        <a href="tel:0211516824">021 1516 824</a><br>
+        <a href="mailto:Channa.Rajanayaka@niwa.co.nz">Channa.Rajanayaka@niwa.co.nz</a>
+      </div>
+    </div>
+
+    <div class="education-item">
+      <div class="education-school">Barry Clark</div>
+      <div class="education-degree">Digital Development Manager, CORDE</div>
+      <div class="education-details" style="margin-top: 0.5rem;">
+        <a href="tel:0274065780">027 406 5780</a><br>
+        <a href="mailto:barry.clark@corde.nz">barry.clark@corde.nz</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>Work Authorization</h2>
+
+  <div class="cv-summary">
+    <strong>Post Study Work Visa:</strong> Valid until 20 December 2027. Eligible to work for any employer in any occupation in New Zealand without restrictions. Open to relocation.
+  </div>
+</section>
+
