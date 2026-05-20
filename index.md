@@ -5,7 +5,7 @@ title: Luke - Full Stack Software Engineer
 
 <div class="cv-header">
   <h1>Luke</h1>
-  <p class="cv-tagline">Full Stack Software Engineer | ML Enthusiast | 10+ Years Experience</p>
+  <p class="cv-tagline">Full Stack Software Engineer | Platform Delivery | 10+ Years Experience</p>
 
   <div class="cv-contact">
     <a href="https://github.com/gentoo111" target="_blank" rel="noopener">
@@ -22,13 +22,13 @@ title: Luke - Full Stack Software Engineer
     </a>
   </div>
 
-  <p class="cv-meta">Auckland, New Zealand | He/Him</p>
+  <p class="cv-meta">Auckland, New Zealand</p>
 </div>
 
 <section class="cv-section">
   <h2>Summary</h2>
   <div class="cv-summary">
-    Full Stack Software Engineer with 10+ years of experience in backend systems, frontend development, and team leadership. Skilled in architecting scalable cloud-native systems with microservices and containerized deployments. Implemented CI/CD pipelines using Jenkins, GitHub Actions and Docker to automate build, test, and deployment stages, significantly reducing release time and improving consistency across environments. Strong communication skills and collaborative approach to software development. Recent work includes a machine learning project at NIWA and a React Native mobile app at CORDE. Seeking impactful engineering roles in NZ tech teams.
+    Full Stack Software Engineer with 10+ years of experience delivering enterprise web, mobile, backend, and platform systems. Strong background in React/TypeScript, Python/FastAPI, C#/.NET, Java/Spring, PostgreSQL, Docker, and CI/CD. Experienced in multi-repository delivery, GIS-enabled field apps, data workflows, and production support. Comfortable working across UI, APIs, services, databases, and business stakeholders to turn complex requirements into reliable production tools.
   </div>
 </section>
 
@@ -167,20 +167,49 @@ title: Luke - Full Stack Software Engineer
   <h2>Work Experience</h2>
 
   <div class="timeline">
+    <!-- BraveGen -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">BraveGen / ESP Platform</div>
+          <div class="timeline-role">Full-stack / Platform Engineer</div>
+          <div class="timeline-location">Auckland</div>
+        </div>
+        <div class="timeline-date">10/2025 - Present</div>
+      </div>
+
+      <div class="timeline-content">
+        <p class="timeline-description">
+          Deliver end-to-end platform features across a multi-repository enterprise SaaS environment, working across React/TypeScript frontends, ASP.NET Core services, PostgreSQL/data warehouse schemas, API gateway configuration, data pipelines, Docker build pipelines, and Azure DevOps PR workflows.
+        </p>
+
+        <div class="timeline-achievements">
+          <ul>
+            <li>Delivered features across UI, APIs, services, database migrations, data models, pipelines, and configuration in the correct owner repositories.</li>
+            <li>Built and maintained Inventory, Carbon, Data Quality Indicators, Activity Log, Organisation Settings, Process Creation, and feature-flagged platform modules.</li>
+            <li>Implemented backend APIs and service logic for inventory rule reconciliation, activity retrieval, data quality definitions, organisation and account configuration, and source/rule matching.</li>
+            <li>Integrated feature flags and entitlement controls for Carbon Calculation, Collect PDF Ingestion, process creation, and account/module subscription workflows.</li>
+            <li>Improved auditability and operational reliability through Activity Log enhancements, RBAC fixes, migration scripts, seed data, index validation, and build/dependency maintenance.</li>
+            <li>Diagnosed cross-cutting issues by tracing UI symptoms through API responses, service logic, database state, data pipelines, and git history.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
     <!-- CORDE -->
     <div class="timeline-item">
       <div class="timeline-header">
         <div>
           <div class="timeline-company">CORDE</div>
-          <div class="timeline-role">Full-stack Developer (Contract)</div>
-          <div class="timeline-location">Christchurch | Remote</div>
+          <div class="timeline-role">Full-stack Developer</div>
+          <div class="timeline-location">Christchurch</div>
         </div>
-        <div class="timeline-date">06/2024 - Present</div>
+        <div class="timeline-date">06/2024 - 10/2025</div>
       </div>
 
       <div class="timeline-content">
         <p class="timeline-description">
-          Led development of enterprise applications including cross-platform mobile solutions and automated field operation systems.
+          Delivered a water-meter field operations platform across two production mobile apps, a web admin portal, backend APIs, data storage, and photo-based meter reading. Both mobile apps were released to the Apple App Store and Google Play.
         </p>
 
         <div class="timeline-projects">
@@ -203,24 +232,24 @@ title: Luke - Full Stack Software Engineer
           <div class="project-item">
             <div class="project-name">Water Meter Management System</div>
             <p class="project-description">
-              Full-stack solution with Python FastAPI backend, React admin portal, and React Native mobile app for automated meter reading
+              Full-stack solution with ASP.NET Core backend, Next.js admin portal, and React Native mobile app for automated meter reading
             </p>
             <div class="project-tech">
-              <span class="tech-tag">Python FastAPI</span>
-              <span class="tech-tag">React</span>
+              <span class="tech-tag">ASP.NET Core</span>
+              <span class="tech-tag">Next.js</span>
               <span class="tech-tag">React Native</span>
-              <span class="tech-tag">Node.js</span>
+              <span class="tech-tag">PostgreSQL</span>
             </div>
           </div>
 
           <div class="project-item">
-            <div class="project-name">AI Water Meter Recognition</div>
+            <div class="project-name">Water Meter Recognition</div>
             <p class="project-description">
-              Machine learning OCR system with custom model training for high-precision automated readings
+              Photo-based recognition workflow for extracting meter readings from field images, with local OCR/computer-vision prototypes and cloud AI APIs used for production accuracy and reliability
             </p>
             <div class="project-tech">
-              <span class="tech-tag">Machine Learning</span>
               <span class="tech-tag">OCR</span>
+              <span class="tech-tag">Machine Learning</span>
               <span class="tech-tag">Python</span>
             </div>
           </div>
@@ -241,24 +270,21 @@ title: Luke - Full Stack Software Engineer
 
       <div class="timeline-content">
         <p class="timeline-description">
-          Built a hydrological forecasting system with FastAPI, PostgreSQL, React, and Dockerized services via GitLab CI/CD.
+          Built a hydrological forecasting and GIS web platform combining data preprocessing, backend APIs, and interactive visualization.
         </p>
 
         <div class="timeline-achievements">
           <ul>
-            <li>Developed RESTful APIs in FastAPI for data ingestion and model output</li>
-            <li>Built GIS dashboards with React.js & Leaflet.js for interactive visualization</li>
-            <li>Containerized services with Docker and automated deployments using GitLab CI/CD</li>
-            <li>Integrated TensorFlow models (LSTM/CNN) and R preprocessing as backend services</li>
-            <li class="highlight">Demonstrated the project at the 2023 New Zealand Hydrological Society Annual Conference, gaining recognition from industry experts</li>
+            <li>Developed LSTM/CNN-based time-series forecasting models in TensorFlow for river-flow prediction.</li>
+            <li>Built FastAPI services and React/GIS dashboards to visualize model outputs and hydrological datasets.</li>
+            <li>Integrated R-based preprocessing, PostgreSQL storage, and web visualization into an end-to-end workflow.</li>
+            <li>Optimized irrigation-data processing scripts from days to hours through parallelization and workflow improvements.</li>
           </ul>
         </div>
 
         <div class="project-tech">
           <span class="tech-tag">TensorFlow</span>
           <span class="tech-tag">React.js</span>
-          <span class="tech-tag">Tailwind</span>
-          <span class="tech-tag">Machine Learning</span>
           <span class="tech-tag">GIS</span>
           <span class="tech-tag">Python</span>
           <span class="tech-tag">FastAPI</span>
@@ -281,20 +307,29 @@ title: Luke - Full Stack Software Engineer
 
       <div class="timeline-content">
         <p class="timeline-description">
-          Led a team of 6 developers in building a multi-module healthcare SaaS platform, overseeing sprint planning, task assignment, and stakeholder communication. Established documentation standards and Git workflow conventions.
+          Led development of healthcare SaaS and medical documentation systems serving 500+ medical institutions.
         </p>
 
         <div class="timeline-projects">
           <h4>Key Projects</h4>
 
           <div class="project-item">
-            <div class="project-name">Laboratory Information System (LIS) - Core Development Lead</div>
+            <div class="project-name">Doctor-Patient Documentation / EMR Parsing System</div>
             <ul class="timeline-achievements">
-              <li>Built a cloud-native microservices platform with Spring Cloud, enabling service discovery, circuit breaker, and configuration</li>
-              <li class="highlight">Optimized SQL queries to improve performance by 70% through indexing, query refactoring, and Redis caching</li>
-              <li>Ensured zero downtime migration from Tencent Cloud to a private cloud, enhancing system reliability and performance</li>
-              <li class="highlight">Enabled seamless integration with 100+ medical devices by implementing HL7 standard interfaces</li>
-              <li>Automated CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time from days to hours</li>
+              <li>Built a pipeline that converts doctor-patient conversations and EMR/PDF inputs into structured medical records using ASR, embeddings, vector retrieval, and LLM-based extraction.</li>
+              <li>Designed structured output workflows for medical summaries, key findings, and reviewable clinical records.</li>
+              <li>Generated PDF reports and stored structured records in PostgreSQL/local databases and AWS S3.</li>
+              <li>Improved documentation efficiency through summarization, outlier detection, and automated information extraction.</li>
+            </ul>
+          </div>
+
+          <div class="project-item">
+            <div class="project-name">Laboratory Information System (ALIS) - Core Development Lead</div>
+            <ul class="timeline-achievements">
+              <li>Built cloud-native microservices using Java/Spring Cloud for laboratory workflows, device integration, and medical data processing.</li>
+              <li>Integrated 100+ medical devices using HL7 interfaces and supported high-volume hospital operations.</li>
+              <li>Optimized SQL and Redis caching, improving query performance by 70%.</li>
+              <li>Automated CI/CD with Jenkins, Docker, and Kubernetes, reducing deployment time from days to hours.</li>
             </ul>
             <div class="project-tech">
               <span class="tech-tag">Java</span>
@@ -310,40 +345,6 @@ title: Luke - Full Stack Software Engineer
               <span class="tech-tag">Jenkins</span>
             </div>
           </div>
-
-          <div class="project-item">
-            <div class="project-name">Lab Communication System (C#)</div>
-            <ul class="timeline-achievements">
-              <li>Developed and deployed C# applications across 500+ hospital labs</li>
-              <li class="highlight">Integrated 4,000+ devices in real-time via HL7 and custom USB/Ethernet gateways</li>
-              <li class="highlight">Ensured 99.9% accuracy and secure transmission of 10M+ lab results annually</li>
-            </ul>
-            <div class="project-tech">
-              <span class="tech-tag">C#</span>
-              <span class="tech-tag">.NET Framework</span>
-              <span class="tech-tag">HL7</span>
-              <span class="tech-tag">Interface Gateway</span>
-            </div>
-          </div>
-
-          <div class="project-item">
-            <div class="project-name">Enterprise Healthcare Suite (5 Major Systems)</div>
-            <ul class="timeline-achievements">
-              <li>Designed backend systems for 5 major hospital modules (patient, doctor, pharmacy, billing, HR)</li>
-              <li class="highlight">Supported 10,000+ concurrent users and 100K+ daily transactions</li>
-              <li>Migrated systems to Kubernetes, applied SQL and Redis performance optimization</li>
-            </ul>
-            <div class="project-tech">
-              <span class="tech-tag">Spring Boot</span>
-              <span class="tech-tag">VUE</span>
-              <span class="tech-tag">React.js</span>
-              <span class="tech-tag">Docker</span>
-              <span class="tech-tag">Oracle</span>
-              <span class="tech-tag">MongoDB</span>
-              <span class="tech-tag">Kafka</span>
-              <span class="tech-tag">Redis</span>
-            </div>
-          </div>
         </div>
 
         <div class="timeline-achievements">
@@ -356,11 +357,11 @@ title: Luke - Full Stack Software Engineer
       </div>
     </div>
 
-    <!-- CHUANZHI PODCAST GROUP -->
+    <!-- DARK HORSE PROGRAMMER -->
     <div class="timeline-item">
       <div class="timeline-header">
         <div>
-          <div class="timeline-company">CHUANZHI PODCAST GROUP</div>
+          <div class="timeline-company">DARK HORSE PROGRAMMER</div>
           <div class="timeline-role">Full-Stack Developer & Instructor</div>
           <div class="timeline-location">China</div>
         </div>
@@ -369,38 +370,38 @@ title: Luke - Full Stack Software Engineer
 
       <div class="timeline-content">
         <p class="timeline-description">
-          Delivered high-quality project-based training courses while leading development of key full-stack applications to showcase best practices and industry-standard development techniques.
+          Delivered project-based training and developed full-stack teaching systems covering Java/Spring, Vue, databases, big data pipelines, and distributed systems.
         </p>
 
         <div class="timeline-projects">
           <h4>Key Projects</h4>
 
           <div class="project-item">
-            <div class="project-name">EasyLearn Online Education Platform</div>
+            <div class="project-name">E-Commerce Shopping Platform</div>
             <p class="project-description">
-              Full-stack online education system for course scheduling, enrollment, and user progress tracking. Supported 1,000+ concurrent users.
+              Built a Spring Boot/MyBatis/Vue.js shopping platform with Redis caching and asynchronous order processing.
             </p>
             <div class="project-tech">
               <span class="tech-tag">Spring Boot</span>
-              <span class="tech-tag">JPA</span>
               <span class="tech-tag">Vue.js</span>
-              <span class="tech-tag">MySQL</span>
+              <span class="tech-tag">MyBatis</span>
               <span class="tech-tag">Redis</span>
               <span class="tech-tag">Docker</span>
             </div>
           </div>
 
           <div class="project-item">
-            <div class="project-name">Smart Farm IoT Platform</div>
+            <div class="project-name">E-Commerce User Behavior Analytics</div>
             <p class="project-description">
-              Smart agriculture platform integrating sensor data with environmental control logic. Real-time dashboards with React.js and MQTT communication for edge devices.
+              Developed a Hadoop/Hive/HBase/Kafka/Spark pipeline for user-behavior analysis and reporting.
             </p>
             <div class="project-tech">
-              <span class="tech-tag">Spring Cloud</span>
-              <span class="tech-tag">React.js</span>
-              <span class="tech-tag">MongoDB</span>
-              <span class="tech-tag">MQTT</span>
-              <span class="tech-tag">Kubernetes</span>
+              <span class="tech-tag">Hadoop</span>
+              <span class="tech-tag">HDFS</span>
+              <span class="tech-tag">Hive</span>
+              <span class="tech-tag">HBase</span>
+              <span class="tech-tag">Kafka</span>
+              <span class="tech-tag">Spark</span>
             </div>
           </div>
         </div>
@@ -408,8 +409,7 @@ title: Luke - Full Stack Software Engineer
         <div class="timeline-achievements">
           <h4>Impact</h4>
           <ul>
-            <li class="highlight">Trained and mentored 1,000+ students, equipping them with practical project experience and industry-ready skills</li>
-            <li>Delivered two production-grade projects showcasing modern full-stack architecture, served as templates for student learning</li>
+            <li class="highlight">Mentored 1,000+ students through practical software engineering projects and architecture walkthroughs</li>
           </ul>
         </div>
       </div>
@@ -448,25 +448,6 @@ title: Luke - Full Stack Software Engineer
 </section>
 
 <section class="cv-section">
-  <h2>Open Source Contributions</h2>
-
-  <ul class="achievement-list">
-    <li class="achievement-item">
-      <strong>AI Chatbot WeChat Mini Program (2023):</strong> Developed a mini program for AI-driven chat bot integration, enhancing user engagement with streamlined NLP solutions.
-    </li>
-    <li class="achievement-item">
-      <strong>GPT Proxy Projects (2023):</strong> Built proxy tools for GPT integration to improve accessibility and response efficiency.
-    </li>
-    <li class="achievement-item">
-      <strong>AnyMK Single Page Application (2018):</strong> Created a lightweight SPA framework for rapid front-end development.
-    </li>
-    <li class="achievement-item">
-      <strong>MOON Scaffold (2017):</strong> Designed a modular scaffold to accelerate full-stack project development.
-    </li>
-  </ul>
-</section>
-
-<section class="cv-section">
   <h2>Publications & Achievements</h2>
 
   <ul class="achievement-list">
@@ -498,8 +479,8 @@ title: Luke - Full Stack Software Engineer
 
       <div class="timeline-content">
         <ul class="timeline-achievements">
-          <li>Assist in recycling and refurbishing devices to promote sustainable technology usage</li>
-          <li>Provide technical support and innovative solutions to extend device life cycles</li>
+          <li>Assisted in recycling and refurbishing devices to promote sustainable technology usage</li>
+          <li>Provided technical support and innovative solutions to extend device life cycles</li>
         </ul>
       </div>
     </div>
